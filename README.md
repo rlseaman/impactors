@@ -13,8 +13,10 @@ A second report, `report/impact-comparative-analysis.md`, goes beyond the rankin
 circumstances and published science behind each of the 13, what the set implies about the
 objects versus about our detection and confirmation infrastructure, and how it compares to
 impacts on other planets and moons (Shoemaker-Levy 9 on Jupiter, Jupiter's amateur-detected
-fireballs, lunar impact flashes, Mars) and to Earth impacts with no advance detection
-(Chelyabinsk, Tunguska, Sikhote-Alin, Carancas, Benešov).
+fireballs, lunar impact flashes, Mars), to Earth impacts with no advance detection
+(Chelyabinsk, Tunguska, Sikhote-Alin, Carancas, Benešov), and to our own hardware: national
+space program rocket stages rediscovered decades later on cislunar/heliocentric orbits, of
+which only one (WT1190F) is confirmed to have reentered Earth's atmosphere.
 
 ## Contents
 
@@ -33,8 +35,9 @@ fireballs, lunar impact flashes, Mars) and to Earth impacts with no advance dete
   circumstances, orbit, physical parameters, confirmation evidence, scientific results,
   papers, sources); schema documented in `impact-comparative-analysis.md`
 - `data/comparisons/*.json` — dossiers on comparison events: impacts on other planets/moons
-  (`planetary-impacts.json`) and undetected/historical Earth impacts (`earth-undetected.json`),
-  plus sourced notes on planetary-defense policy history (`notes.md`)
+  (`planetary-impacts.json`), undetected/historical Earth impacts (`earth-undetected.json`),
+  and deep-space-origin artificial objects (`artificial-deep-space-objects.json`), plus
+  sourced notes on planetary-defense policy history (`notes.md`)
 - `scripts/mpc_obs.py` — fetch and count MPC observations
 - `scripts/sbdb_orbits.py` — query the JPL SBDB
 - `scripts/fireballs.sh` — query the CNEOS fireball API

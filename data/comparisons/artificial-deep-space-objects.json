@@ -1,0 +1,117 @@
+[
+  {
+    "name": "WT1190F",
+    "category": "confirmed-earth-reentry",
+    "date_utc": "2015-11-13T06:18:21.7Z",
+    "suspected_or_confirmed_origin": "Not conclusively confirmed. Leading candidate is the STAR 37FM solid-fuel trans-lunar injection (TLI) motor casing from NASA's 1998 Lunar Prospector mission, based on the object's size and its very low bulk density; no spectroscopic or documentary proof of identity was obtained before it burned up, so the identification remains a strong inference rather than a certainty.",
+    "origin_space_program": "NASA (candidate: Lunar Prospector, 1998)",
+    "discovery": "First imaged, unrecognized, by the Mount Lemmon Survey on 2009-10-26 (9U01FF6); briefly re-observed and lost twice more (2013-02-18 as UDA34A3, observed 5 hours; 2013-11-29 as UW8551D, observed 1h35m) before Catalina Sky Survey observer Rose Garcia linked these detections and designated it WT1190F on 2015-10-03, roughly six weeks before it reentered.",
+    "orbital_history": "Highly eccentric, Earth-bound geocentric orbit (2015 epoch): periapsis 21,222 km, apoapsis 655,374 km (1.70 lunar distances), eccentricity 0.937, period 22.66 days, inclination 3.2 deg. Unlike the temporarily-captured objects below, WT1190F was already gravitationally bound to Earth in a stable-looking orbit for years before its orbit finally decayed into the atmosphere.",
+    "identification_evidence": "Bulk density of only about 0.10 g/cm^3 and strong sensitivity to solar radiation pressure (a large area-to-mass ratio) are incompatible with a solid natural rock and consistent with a lightweight hollow shell such as a spent rocket motor casing or propellant tank.",
+    "physical_characteristics": "0.7-2 m across, estimated mass 250-2,000 kg, tumbling with a rotation period of about 0.75 s; apparent magnitude ranged 16-23 as it approached.",
+    "outcome": "Reentered exactly as predicted at 06:18:21.7 UTC on 2015-11-13, about 100 km off Galle, Sri Lanka, at roughly 11 km/s. Produced a bright daytime fireball; almost all material was destroyed or fell into the Indian Ocean and nothing was recovered.",
+    "scientific_significance": "The first-ever precisely predicted reentry of a piece of space debris. Because the trajectory was public and accurate to well under a second, ESA and the UAE Space Agency chartered a Gulfstream 450 jet — with SETI Institute's Peter Jenniskens aboard — to fly above the cloud deck and film the reentry and its spectrum, deliberately using WT1190F as a rehearsal for how a short-warning natural asteroid impact would be tracked, predicted, and observed (Jenniskens et al. 2016; Micheli et al. 2018).",
+    "comparison_to_neo_impactor_set": "WT1190F is the closest artificial analog to the 13 natural impactors: discovered weeks ahead, its reentry time was called to a tenth of a second (matching 2024 RW1's precision), and ESA/researchers explicitly used it as a proxy for natural-impactor response planning. The key difference is starting condition — WT1190F had already been a quiet Earth satellite for years, while all 13 natural cases arrived fresh from interplanetary space on their first (and only) close approach. No natural case in the 13-object set has ever had its progenitor traced to a specific known piece of hardware, however tentatively; WT1190F's low density did that work for free.",
+    "key_papers": [
+      {"authors": "Jenniskens, P. et al.", "year": 2016, "journal_or_venue": "AIAA SciTech Forum", "topic": "Airborne observations of an asteroid entry for high fidelity modeling: space debris object WT1190F", "url_or_doi": null},
+      {"authors": "Micheli, M., Buzzoni, A., Koschny, D., Drolshagen, G., Perozzi, E., Hainaut, O., Lemmens, S., et al.", "year": 2018, "journal_or_venue": "Icarus 304, 4-13", "topic": "The observing campaign on the deep-space debris WT1190F as a test case for short-warning NEO impacts", "url_or_doi": "arXiv:1710.07684"}
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/WT1190F",
+      "https://arxiv.org/abs/1710.07684",
+      "https://blogs.esa.int/rocketscience/2015/10/28/wt1190f-whats-in-a-name/",
+      "https://neo.ssa.esa.int/-/the-wt1190f-observation-campaign",
+      "https://earthsky.org/space/space-debris-reentry-november-13-2015-wt1190f/"
+    ]
+  },
+  {
+    "name": "2020 SO",
+    "category": "temporarily-captured-escaped",
+    "date_utc": "2020-11-08 (Hill-sphere entry) to 2021-03-08 (Hill-sphere exit)",
+    "suspected_or_confirmed_origin": "Confirmed: the Centaur upper stage that launched NASA's Surveyor 2 lander toward the Moon on 1966-09-20. Surveyor 2 itself crashed on the Moon; its spent Centaur stage missed the Moon and drifted into a wide, Earth-like heliocentric orbit for 54 years.",
+    "origin_space_program": "NASA (Surveyor program, 1966)",
+    "discovery": "Discovered 2020-09-17 by the Pan-STARRS1 survey at Haleakala Observatory (provisional designation P116rK2); its orbit was quickly noted as unusually Earth-like.",
+    "orbital_history": "Pre-capture (2020 May): a=1.0371 AU, e=0.034, Apollo-class, Earth MOID 0.0163 AU. Entered Earth's Hill sphere 2020-11-08 and became temporarily gravitationally bound; closest approach 2020-12-01 (~50,000 km, inside the geostationary belt); a second, more distant approach 2021-02-02 (~220,000 km). During capture (Dec 2020): a=0.9865 AU, e=0.0018, reclassified as an Atira orbit. Departed the Hill sphere around 2021-03-08, returning to independent heliocentric orbit. Removed from the Minor Planet Center's minor-planet database on 2021-02-19 once its artificial nature was confirmed.",
+    "identification_evidence": "December 2020 spectroscopy with NASA's Infrared Telescope Facility (IRTF) found a reflectance spectrum matching stainless steel rather than any known asteroid taxonomic class; radar and photometric rotation period (~9.4-9.5 s) and a 2.5-magnitude light-curve amplitude indicated an elongated, tumbling artificial body (~10 m x 3 m) rather than a compact rock; the orbital-dynamics match to a Surveyor 2 Centaur departure in September 1966 was independently confirmed to within days by JPL's Center for Near-Earth Object Studies.",
+    "physical_characteristics": "Elongated cylindrical shape roughly 10 m long by 3 m wide, consistent with an Atlas-Centaur upper stage; strongly affected by solar radiation pressure given its large area-to-mass ratio.",
+    "outcome": "Did not reenter. After roughly four months as a temporarily captured 'minimoon,' it escaped Earth's gravity again in March 2021 and resumed an independent heliocentric orbit.",
+    "scientific_significance": "The clearest spectroscopically confirmed identification of a specific 1960s-era rocket stage rediscovered in deep space; established stainless-steel reflectance and slow multi-second rotation as diagnostic signatures for other candidate objects, and demonstrated that JPL's orbit-propagation models can trace a decades-old departure trajectory back to a specific known launch to within days.",
+    "comparison_to_neo_impactor_set": "2020 SO shows why a confirmed Earth reentry of deep-space hardware (WT1190F) is rare rather than routine: an object can be captured, closely approach Earth well inside the Moon's distance, and still escape again rather than decay into the atmosphere, because these lightweight, high-area-to-mass-ratio objects are pushed around by solar radiation pressure in ways compact natural asteroids are not. None of the 13 natural impactors show this back-and-forth capture behavior — they each made one hyperbolic approach and struck.",
+    "key_papers": [
+      {"authors": "Center for Near-Earth Object Studies (JPL), Ye, Q., et al.", "year": 2020, "journal_or_venue": "NASA/JPL public technical statements and IAU Minor Planet Electronic Circulars", "topic": "Orbital identification of 2020 SO as the Surveyor 2 Centaur upper stage", "url_or_doi": null}
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/2020_SO",
+      "https://www.nasa.gov/solar-system/earth-may-have-captured-a-1960s-era-rocket-booster/",
+      "https://www.drewexmachina.com/2020/10/27/has-the-centaur-that-launched-nasas-surveyor-2-to-the-moon-returned-home/",
+      "https://www.space.com/earth-captures-surveyor-moon-rocket-space-junk.html"
+    ]
+  },
+  {
+    "name": "J002E3",
+    "category": "temporarily-captured-escaped",
+    "date_utc": "1969-11-18 (captured after lunar flyby) to 2003-06 (escaped to heliocentric orbit); 2002-09-03 (rediscovered)",
+    "suspected_or_confirmed_origin": "Confirmed via spectroscopy: the S-IVB third stage of the Apollo 12 Saturn V rocket.",
+    "origin_space_program": "NASA (Apollo program, 1969)",
+    "discovery": "Rediscovered 2002-09-03 by amateur astronomer Bill Yeung, who initially reported it as a possible new asteroid; professional follow-up quickly flagged its Earth-like orbit and slow, deliberate tumble as anomalous for a natural body.",
+    "orbital_history": "NASA intended to vent the Apollo 12 S-IVB's residual propellant to send it into permanent heliocentric orbit after translunar injection, but an unusually long ullage-motor burn left it without enough energy to fully escape the Earth-Moon system; instead it entered a loosely bound, chaotic high-Earth orbit after a lunar flyby on 1969-11-18. It left Earth's vicinity in 1971, was rediscovered as J002E3 in Earth orbit in 2002, and departed again into heliocentric orbit around June 2003. Its geocentric/heliocentric cycling recurs on a roughly 40-year period, with a return to Earth's vicinity anticipated in the mid-2040s.",
+    "identification_evidence": "University of Arizona spectroscopy found absorption features matching white paint, black paint, and aluminum consistent with Saturn V hardware, with a titanium-dioxide-pigment signature specifically pointing to Apollo-era rocket paint rather than any mineral surface. Its very slow 63.46 s end-over-end tumble (with 79 deg +/- 10 deg precession) is also inconsistent with a compact asteroid and consistent with a large, low-density hollow stage.",
+    "physical_characteristics": "Full S-IVB stage, roughly 14 tonnes; large hollow structure with a correspondingly large area-to-mass ratio, making it highly susceptible to solar radiation pressure perturbation.",
+    "outcome": "Did not reenter. Left Earth orbit again in 2003 for an independent heliocentric orbit; not expected back near Earth until roughly the 2040s.",
+    "scientific_significance": "The first deep-space human-made object to be rediscovered, spectroscopically confirmed, and traced to a specific historical mission (Chodas & Chesley 2002; Jorgensen et al. 2003), establishing the paint-spectroscopy technique later applied to other rediscovered stages and giving orbital dynamicists a real, decades-long case study in Earth-Moon-Sun three-body capture and escape for artificial bodies.",
+    "comparison_to_neo_impactor_set": "J002E3 is the longest-baseline example of the same population WT1190F came from: Saturn V third stages deliberately sent toward solar orbit that instead lingered near Earth for decades. Its ~40-year capture/escape cycle underscores that most such derelict deep-space hardware does not simply come home — it oscillates near Earth indefinitely, unlike any of the 13 natural impactors, each of which was on its one and only Earth-crossing approach when detected.",
+    "key_papers": [
+      {"authors": "Chodas, P. W., Chesley, S. R.", "year": 2002, "journal_or_venue": "NASA/JPL technical note", "topic": "Orbital analysis identifying J002E3 as a candidate Apollo 12 S-IVB stage", "url_or_doi": null},
+      {"authors": "Jorgensen, K. et al.", "year": 2003, "journal_or_venue": "American Astronomical Society (DPS) meeting", "topic": "Observations of J002E3", "url_or_doi": null},
+      {"authors": "Lambert, J. et al.", "year": 2004, "journal_or_venue": "IEEE Aerospace Conference", "topic": "Photometric/dynamical analysis of J002E3", "url_or_doi": null}
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/J002E3",
+      "https://news.mit.edu/2002/apollo",
+      "https://www.astronomy.com/space-exploration/how-a-long-gone-apollo-rocket-returned-to-earth/"
+    ]
+  },
+  {
+    "name": "WE0913A (Chang'e 5-T1 booster / Long March 3C third stage)",
+    "category": "lunar-impact-not-earth",
+    "date_utc": "2022-03-04",
+    "suspected_or_confirmed_origin": "Confirmed via spectral and trajectory analysis: the Long March 3C third stage that launched China's Chang'e 5-T1 lunar-return test mission on 2014-10-23.",
+    "origin_space_program": "CNSA (China National Space Administration), Chang'e program",
+    "discovery": "Tracked as unidentified deep-space debris for over seven years after the 2014 launch; in early 2022, orbital projections showed it was on course to strike the Moon, triggering a public identification dispute — it was initially misattributed to the second stage of the SpaceX Falcon 9 that launched NASA's DSCOVR mission in 2015.",
+    "orbital_history": "Left in a trans-lunar trajectory after the 2014 Chang'e 5-T1 launch rather than being sent to a stable disposal orbit; made repeated close flybys of the Earth and Moon over the following years before impacting the lunar far side.",
+    "identification_evidence": "University of Arizona ground-based spectroscopy and trajectory back-propagation confirmed the Chinese origin and ruled out the Falcon 9 second stage; the US Space Command separately confirmed the object never reentered Earth's atmosphere, contradicting an initial Chinese foreign-ministry denial of ownership.",
+    "physical_characteristics": "A double impact crater roughly 29 m wide was later imaged by NASA's Lunar Reconnaissance Orbiter and India's Chandrayaan-2, an unusual morphology researchers attribute to an unknown second mass attached to the stage at impact.",
+    "outcome": "Impacted the Moon's far side near Hertzsprung crater (5.18N, 233.55E) on 2022-03-04 at several km/s; this is a lunar impact, not an Earth reentry, and is included here only for contrast.",
+    "scientific_significance": "Demonstrated, seven years after the fact, how easily derelict trans-lunar-injection hardware from different national programs can be confused with one another when no one deliberately tracks it; the eventual identification relied on the same spectroscopic and dynamical toolkit used for WT1190F, 2020 SO, and J002E3.",
+    "comparison_to_neo_impactor_set": "Not an Earth-reentry case, but it demonstrates the broader population these Earth-reentry candidates are drawn from: multiple national programs (US and Chinese here) have left translunar-injection stages drifting for years to decades, and only careful, deliberate tracking — the same infrastructure built for natural NEOs — can tell whose derelict hardware is about to hit something, and what.",
+    "key_papers": [
+      {"authors": "University of Arizona / Planetary Science Institute team", "year": 2023, "journal_or_venue": "The Planetary Science Journal", "topic": "Physical characterization of Moon impactor WE0913A", "url_or_doi": "10.3847/PSJ/acffb8"}
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chang'e_5-T1",
+      "https://www.psi.edu/blog/moon-impactor-is-chinese-booster-rocket-with-unknown-object-attached/",
+      "https://www.space.com/moon-crash-march-2022-china-rocket-body",
+      "https://www.projectpluto.com/temp/correct.htm"
+    ]
+  },
+  {
+    "name": "1991 VG",
+    "category": "natural-false-candidate",
+    "date_utc": "1991-11-06 (discovery); 1991-12-05 (closest approach)",
+    "suspected_or_confirmed_origin": "Resolved as natural. No compelling evidence was ever found for an artificial origin despite early speculation.",
+    "origin_space_program": "None — considered by some in 1991-1992 to possibly be Apollo-program or other 1960s-70s launch debris, but never linked to any specific mission.",
+    "discovery": "Discovered 1991-11-06 by James Scotti using the Spacewatch telescope at Kitt Peak; its unusually Earth-like orbit (semi-major axis 1.03 AU, low eccentricity, Earth MOID ~0.002 AU) drew immediate attention as one of the most Earth-similar orbits then known for a small object.",
+    "orbital_history": "Semi-major axis 1.0323 AU, eccentricity 0.052, orbital period 383 days — essentially co-orbital with Earth. Made a close approach of 0.003 AU (450,000 km) on 1991-12-05, and later returned for closer study on 2017-08-07 (0.057 AU) and 2018-02-11 (0.047 AU).",
+    "identification_evidence": "Rapid brightness variation seen near its 1991 close approach fueled speculation about a tumbling artificial object (a spent rocket tank or Apollo-era debris), but later analysis found no photometric, spectroscopic, or dynamical evidence inconsistent with a natural small asteroid; the working scientific conclusion is that 1991 VG is natural, though its unusual orbit (possibly lunar-ejecta-related, like 2024 PT5) remains of independent interest.",
+    "physical_characteristics": "Roughly 5-12 m across, in the same size range as several of the 13 tracked natural impactors and the smaller deep-space artificial candidates.",
+    "outcome": "No impact or capture; a natural close approach, now resolved as such, with no further anomaly.",
+    "scientific_significance": "An early (pre-WT1190F, pre-2020 SO) case study in how hard it is to tell a natural Earth-co-orbital object from artificial debris using early-1990s instrumentation, and a caution against over-reading brightness variability alone as evidence of artificiality.",
+    "comparison_to_neo_impactor_set": "1991 VG is the mirror image of WT1190F/2020 SO/J002E3: a case where the artificial-origin hypothesis was reasonable to raise but did not survive scrutiny, just as 2024 PT5 (lunar ejecta) was later confirmed natural using the same area-to-mass-ratio radiation-pressure test that helped confirm WT1190F's and 2020 SO's artificial nature. Included to show the identification methodology cuts both ways, and is not a foregone conclusion in either direction.",
+    "key_papers": [
+      {"authors": "Scotti, J. V., et al.", "year": 1992, "journal_or_venue": "IAU Circulars / follow-up analyses", "topic": "Discovery and orbit of 1991 VG", "url_or_doi": null}
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/1991_VG"
+    ]
+  }
+]
