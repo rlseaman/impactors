@@ -1,0 +1,74 @@
+{
+  "designation": "2024 BX1",
+  "slug": "2024-bx1",
+  "discovery": {
+    "date_utc": "2024-01-20",
+    "time_utc": "21:48",
+    "survey": "GINOP-KHK/Konkoly Observatory (Krisztián Sárneczky)",
+    "station_code": "K88",
+    "telescope": "0.6 m Schmidt, Piszkéstető Station",
+    "discoverer": "Krisztián Sárneczky",
+    "magnitude_at_discovery": null
+  },
+  "impact": {
+    "date_utc": "2024-01-21",
+    "time_utc": "00:32:38",
+    "location_description": "Between Selbelang (Paulinenaue), Ribbeck, Berge and Lietzow (Nauen), Havelland district, Brandenburg, Germany, ~65 km west of central Berlin",
+    "lat": 52.7,
+    "lon": 12.5,
+    "context": "Populated rural/exurban region near Berlin, night sky, widely filmed from the German capital and surrounding towns."
+  },
+  "warning_time_hours": 2.7379555555555553,
+  "orbit": {
+    "class": "Apollo",
+    "a_au": 1.340,
+    "e": 0.375,
+    "i_deg": 7.29,
+    "q_au": 0.835,
+    "Q_au": 1.840,
+    "U": 5,
+    "source": "JPL SBDB, fetched 2026-09-07 (repo data/sbdb_orbits.txt); nobs=321 used in JPL fit vs 328 in MPC total"
+  },
+  "physical": {
+    "diameter_m_estimate": "0.44 m",
+    "velocity_km_s": 15.20,
+    "entry_angle_deg": null,
+    "energy_kt_measured": null,
+    "energy_kt_modeled": null,
+    "mass_estimate_kg": 140
+  },
+  "confirmation": {
+    "meteorites": {
+      "found": true,
+      "name": "Ribbeck",
+      "total_mass_kg": 1.8,
+      "count": 200,
+      "class": "Aubrite (enstatite achondrite)",
+      "notes": "About 200 stones recovered totaling ~1.8 kg, largest pieces 212 g and 171 g. First samples found by Polish meteorite hunters near the village of Ribbeck. Only the 8th predicted asteroid impact overall and only the 4th to yield recovered meteorites at the time."
+    },
+    "sensor_detections": [],
+    "camera_networks": ["Central European fireball/all-sky networks (various amateur and institutional cameras around Berlin)"],
+    "eyewitness": "Widely filmed from Berlin and Leipzig; extensive public video record enabled a precise multi-station trajectory solution despite the short warning."
+  },
+  "scientific_results": [
+    "Recovered stones were identified by the Museum für Naturkunde Berlin as aubrites, a rare enstatite-achondrite class thought to originate from a highly reduced, differentiated parent body — one of only a handful of witnessed aubrite falls in history, and the first aubrite with a directly observed pre-impact orbit.",
+    "Spurny et al. 2024 (Astronomy & Astrophysics) published a full atmospheric entry and fragmentation analysis from multi-station bolide imagery: trajectory, orbit refinement, dynamics of breakup, light curve, and a derived emission spectrum, alongside revised physical parameters (0.44 m, ~140 kg) superseding early size estimates.",
+    "Laboratory spectral characterization of Ribbeck aubrite samples (Collins et al. 2024, Planetary Science Journal) found reflectance properties consistent with high-albedo E-type asteroids, and noted aubrites as a candidate spectral analog for Mercury's surface material, of interest for interpreting future Mercury remote-sensing data.",
+    "Because Sárneczky's discovery gave only about 2.7 hours' notice, the case is a benchmark for how much can be learned even from a short-arc detection when dense amateur/public video coverage exists near a major population center."
+  ],
+  "notable_papers": [
+    {"authors": "Spurný, P. et al.", "year": 2024, "journal_or_venue": "Astronomy & Astrophysics 686, A67", "topic": "Atmospheric entry and fragmentation of the small asteroid 2024 BX1: bolide trajectory, orbit, dynamics, light curve, and spectrum", "url_or_doi": "10.1051/0004-6361/202449735"},
+    {"authors": "Collins, G. S. et al. / Natural History Museum Berlin team", "year": 2024, "journal_or_venue": "The Planetary Science Journal 5, 138", "topic": "Laboratory spectral characterization of Ribbeck aubrite, sample of Earth-impacting NEA 2024 BX1", "url_or_doi": null},
+    {"authors": "Various (MetSoc 2024 abstract)", "year": 2024, "journal_or_venue": "87th Annual Meeting of the Meteoritical Society", "topic": "Initial analysis of the Ribbeck aubrite recovered from asteroid 2024 BX1", "url_or_doi": null}
+  ],
+  "narrative": "Krisztián Sárneczky, the same Hungarian observer who would later discover 2023 CX1, picked up 2024 BX1 with the Piszkéstető Schmidt telescope at 21:48 UTC on 20 January 2024; the object gave only about 2 hours 45 minutes of warning before it entered the atmosphere at 00:32 UTC on 21 January, exploding in a brilliant fireball widely filmed from Berlin and Leipzig. It came down over the rural Havelland district west of the German capital, and searchers, including Polish meteorite hunters, soon began recovering small dark stones near the village of Ribbeck. Laboratory analysis identified the roughly 200 recovered fragments, totaling about 1.8 kg, as aubrites — a rare, highly reduced achondrite class rarely represented among witnessed falls — making Ribbeck only the fourth meteorite ever recovered from a telescopically tracked impactor and the first aubrite among them. A detailed multi-station photographic and video analysis published later that year reconstructed the full entry, fragmentation, and orbit history despite the short warning time.",
+  "sources": [
+    "https://www.eurekalert.org/news-releases/1033487",
+    "https://www.seti.org/news/asteroid-that-impacted-near-berlin-identified-as-a-rare-aubrite/",
+    "https://arxiv.org/abs/2403.00634",
+    "https://www.aanda.org/articles/aa/full_html/2024/06/aa49735-24/aa49735-24.html",
+    "https://ui.adsabs.harvard.edu/abs/2024PSJ.....5..138C/abstract",
+    "https://www.hou.usra.edu/meetings/metsoc2024/pdf/6418.pdf",
+    "https://karmaka.de/?p=34832"
+  ]
+}

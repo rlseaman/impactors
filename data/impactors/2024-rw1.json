@@ -1,0 +1,61 @@
+{
+  "designation": "2024 RW1",
+  "slug": "2024-rw1",
+  "discovery": {
+    "date_utc": "2024-09-04",
+    "time_utc": "06:39",
+    "survey": "Catalina Sky Survey",
+    "station_code": "G96",
+    "telescope": "1.5 m Mount Lemmon reflector",
+    "discoverer": "Jacqueline Fazekas",
+    "magnitude_at_discovery": null
+  },
+  "impact": {
+    "date_utc": "2024-09-04",
+    "time_utc": "16:39:32",
+    "location_description": "Off the eastern coast of Luzon Island, Philippines, during Typhoon Yagi; airburst at ~25 km altitude",
+    "lat": 18.0,
+    "lon": 122.9,
+    "context": "Coastal/near-shore, daytime, storm conditions (Typhoon Yagi overhead); witnessed and filmed by residents in Luzon through gaps in typhoon cloud cover, an unusual detection circumstance."
+  },
+  "warning_time_hours": 10.930784888888889,
+  "orbit": {
+    "class": "Apollo",
+    "a_au": 2.510,
+    "e": 0.707,
+    "i_deg": 0.53,
+    "q_au": 0.735,
+    "Q_au": 4.280,
+    "U": 5,
+    "source": "JPL SBDB, fetched 2026-09-07 (repo data/sbdb_orbits.txt); nobs=76 used in JPL fit (excludes 92 observations from station D29) vs 187 in MPC total"
+  },
+  "physical": {
+    "diameter_m_estimate": "1-2 m",
+    "velocity_km_s": 19.7,
+    "entry_angle_deg": null,
+    "energy_kt_measured": 0.2,
+    "energy_kt_modeled": 0.19,
+    "mass_estimate_kg": null
+  },
+  "confirmation": {
+    "meteorites": null,
+    "sensor_detections": ["US government satellite sensors, 0.2 kt at 18.0N 122.9E"],
+    "camera_networks": [],
+    "eyewitness": "Videos from residents on Luzon captured the fireball through breaks in Typhoon Yagi's cloud cover; widely shared on social media and picked up by regional press."
+  },
+  "scientific_results": [
+    "ESA's independent impact-energy model (0.19 kt) matched the US government sensor measurement (0.2 kt) closely, one of the better agreements in the whole 13-object series and a useful validation point for airburst energy modeling.",
+    "Demonstrated real-time public tracking: ESA and JPL published the predicted impact time and location publicly before the event, and it was confirmed to within about 0.1 seconds and 100 meters — illustrating how precise short-arc orbit determination inside Earth's gravity well has become for imminent impactors.",
+    "JPL's SBDB fit excludes 92 of the 187 MPC-logged observations (station D29), a data-quality flag noted in this dataset's own orbit-fitting notes rather than in published literature; it does not appear to affect the impact solution's reliability given independent sensor confirmation.",
+    "No meteorite recovery was attempted; any surviving fragments would have fallen into the sea off Luzon."
+  ],
+  "notable_papers": [],
+  "narrative": "Catalina Sky Survey technologist Jacqueline Fazekas discovered 2024 RW1 with the Mount Lemmon telescope at 06:39 UTC on 4 September 2024; automated systems quickly computed a high-confidence impact solution pointing at the Philippines less than eleven hours later. The object entered Earth's atmosphere at 16:39 UTC that same day, close to the eastern coast of Luzon, while Typhoon Yagi was moving through the region — an unusual coincidence that both obscured the fireball from many potential witnesses and produced striking footage from those who caught it through breaks in the storm clouds. US government sensors registered a 0.2-kilotons detonation matching ESA's independently modeled 0.19 kt almost exactly, one of the closest measured-to-modeled agreements among the 13 known pre-impact detections. It was only the ninth asteroid ever spotted before hitting Earth, and its predicted time and location proved accurate to within roughly a tenth of a second and 100 meters.",
+  "sources": [
+    "https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_2024_RW1_impact_ESA_analysis",
+    "https://neo.ssa.esa.int/past-impactors/2024rw1",
+    "https://astro.arizona.edu/news/catalina-sky-survey-supported-steward-observatorys-mountain-operations-detects-ninth-asteroid",
+    "https://www.universetoday.com/articles/a-surprise-asteroid-lit-up-the-sky-over-the-philippines",
+    "https://www.space.com/asteroid-earth-impact-september-2024-rw1"
+  ]
+}

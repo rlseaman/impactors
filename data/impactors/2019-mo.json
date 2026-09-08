@@ -1,0 +1,63 @@
+{
+  "designation": "2019 MO",
+  "slug": "2019-mo",
+  "discovery": {
+    "date_utc": "2019-06-22",
+    "time_utc": "09:49",
+    "survey": "ATLAS (Asteroid Terrestrial-impact Last Alert System)",
+    "station_code": "T08",
+    "telescope": "0.5 m ATLAS unit telescope, Mauna Loa",
+    "discoverer": null,
+    "magnitude_at_discovery": null
+  },
+  "impact": {
+    "date_utc": "2019-06-22",
+    "time_utc": "21:25:47",
+    "location_description": "Caribbean Sea, roughly between Puerto Rico and the northern coast of South America",
+    "lat": 14.9,
+    "lon": -66.2,
+    "context": "Deep open ocean, no possibility of meteorite recovery."
+  },
+  "warning_time_hours": 11.6,
+  "orbit": {
+    "class": "Apollo",
+    "a_au": 2.530,
+    "e": 0.629,
+    "i_deg": 1.56,
+    "q_au": 0.938,
+    "Q_au": 4.110,
+    "U": 9,
+    "source": "JPL SBDB, fetched 2026-09-07 (repo data/sbdb_orbits.txt); nobs=7"
+  },
+  "physical": {
+    "diameter_m_estimate": "~4-6 m",
+    "velocity_km_s": 14.9,
+    "entry_angle_deg": null,
+    "energy_kt_measured": 6,
+    "energy_kt_modeled": null,
+    "mass_estimate_kg": null
+  },
+  "confirmation": {
+    "meteorites": null,
+    "sensor_detections": ["GOES-16 Geostationary Lightning Mapper flash", "US government satellite sensors, ~6 kt", "International Monitoring System (CTBTO) infrasound, 3 stations"],
+    "camera_networks": ["NEXRAD weather radar (debris/atmospheric signature)"],
+    "eyewitness": "None documented; over open ocean, far from shipping lanes at the time."
+  },
+  "scientific_results": [
+    "2019 MO was not flagged as a likely impactor from the original ATLAS discovery tracklet alone (only 4 positions over roughly 30-35 minutes); it was the post-impact discovery of 3 serendipitous Pan-STARRS2 (F52) precovery images -- located by R. Weryk and M. Huber (University of Hawaii IfA) and M. Micheli (ESA) on a partially non-functional part of the PS2 detector -- that firmly linked the tracked object to the observed GOES/sensor fireball.",
+    "It is a textbook case of 'retrospective confirmation': the JPL Scout system rated the object only 'possible' before impact, and its risk score rose to 'likely' only after the precovery data were folded in, illustrating the practical limits of same-night short-arc impact prediction versus after-the-fact linkage.",
+    "The event is frequently cited (e.g. in NASA/JPL Scout-system reporting) as an early demonstration of routine cross-survey collaboration (ATLAS + Pan-STARRS + ESA NEOCC) to resolve an impactor's identity within hours of a fireball."
+  ],
+  "notable_papers": [
+    {"authors": "Farnocchia, D. et al.", "year": 2016, "journal_or_venue": "AAS/DPS meeting abstracts (Scout system description; 2019 MO postdates this paper but is analyzed with the same Scout methodology in subsequent JPL/NASA reporting)", "topic": "Scout: orbit analysis and hazard assessment for NEOCP objects", "url_or_doi": null}
+  ],
+  "narrative": "ATLAS's Mauna Loa telescope picked up a faint, fast-moving object around 09:49 UTC on 22 June 2019, but the initial four-position, roughly half-hour tracklet was too short to do more than flag a possible impact. A little over 11 hours later, at 21:25:47 UTC, a fireball over the Caribbean Sea south of Puerto Rico was recorded by the GOES-16 lightning mapper, US government sensors (about 6 kt), CTBTO infrasound stations, and NEXRAD radar. Only afterward did astronomers Robert Weryk, Mark Huber, and Marco Micheli track down three additional Pan-STARRS2 images taken roughly two hours before the ATLAS discovery, on a partially dead region of the PS2 camera, confirming that the tracked object and the observed fireball were the same body. Because the impact was recognized as real only after the fireball, and the identifying data came from precovery images found afterward, 2019 MO stands as one of the two clearest 'linked' rather than 'predicted' impacts in the 13-object set, alongside 2024 UQ.",
+  "sources": [
+    "https://neo.ssa.esa.int/past-impactors/2019mo",
+    "https://www.jpl.nasa.gov/news/nasa-tracked-small-asteroid-before-it-broke-up-in-atmosphere/",
+    "https://phys.org/news/2019-07-nasa-tracked-small-asteroid-broke.html",
+    "https://earthsky.org/space/asteroid-2019-mo-struck-earth-june-22-2019/",
+    "https://en.wikipedia.org/wiki/2019_MO",
+    "https://ssd-api.jpl.nasa.gov/fireball.api"
+  ]
+}

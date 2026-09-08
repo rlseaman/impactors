@@ -1,0 +1,77 @@
+{
+  "designation": "2008 TC3",
+  "slug": "2008-tc3",
+  "discovery": {
+    "date_utc": "2008-10-06",
+    "time_utc": "06:39",
+    "survey": "Catalina Sky Survey",
+    "station_code": "G96",
+    "telescope": "1.5 m Mount Lemmon reflector",
+    "discoverer": "Richard Kowalski",
+    "magnitude_at_discovery": 19.0
+  },
+  "impact": {
+    "date_utc": "2008-10-07",
+    "time_utc": "02:45:45",
+    "location_description": "Nubian Desert, northern Sudan, above the Nile valley near Wadi Halfa; airburst at ~37 km altitude",
+    "lat": 20.9,
+    "lon": 31.4,
+    "context": "Remote desert, night. Witnessed by a KLM 747 flight crew (KL592) at high altitude and by observers on the ground; no population in the immediate area, which made systematic ground-track searching feasible."
+  },
+  "warning_time_hours": 20.09842,
+  "orbit": {
+    "class": "Apollo",
+    "a_au": 1.310,
+    "e": 0.312,
+    "i_deg": 2.54,
+    "q_au": 0.900,
+    "Q_au": 1.720,
+    "U": 4,
+    "source": "JPL SBDB, fetched 2026-09-07 (repo data/sbdb_orbits.txt); nobs=575 used in JPL fit vs 883 in MPC total"
+  },
+  "physical": {
+    "diameter_m_estimate": "~4.1 m (later revised toward ~4 m from recovered mass budget)",
+    "velocity_km_s": 12.8,
+    "entry_angle_deg": 19,
+    "energy_kt_measured": 1.0,
+    "energy_kt_modeled": 1.1,
+    "mass_estimate_kg": 80000
+  },
+  "confirmation": {
+    "meteorites": {
+      "found": true,
+      "name": "Almahata Sitta",
+      "total_mass_kg": 10.5,
+      "count": 600,
+      "class": "Polymict ureilite (anomalous carbon-rich, F-class asteroid material) with minor chondritic clasts",
+      "notes": "First meteorite ever recovered from an asteroid tracked in space before impact. Recovered over two field campaigns (Dec 2008 and later) led by Peter Jenniskens (SETI Institute/NASA Ames) and Muawia Shaddad (University of Khartoum) with students systematically walking the predicted strewn field on the Nubian Desert sand sheet."
+    },
+    "sensor_detections": ["US government satellite sensors (bolide record, ~1 kt)", "Meteosat-8 detected the flash", "Infrasound arrays"],
+    "camera_networks": [],
+    "eyewitness": "KLM flight KL592 crew reported the flash near their cruising altitude; ground witnesses in Sudan and Egypt also reported the fireball."
+  },
+  "scientific_results": [
+    "First and only case (as of the underlying MPC totals in this dataset) where a pre-impact telescopic reflectance spectrum was matched, fragment by fragment, to a recovered meteorite: fragment 'Almahata Sitta #7' visible-light spectrum matched the pre-impact spectrum of 2008 TC3, identifying the parent as an F-class (dark, anomalous ureilitic) asteroid — Jenniskens et al. 2009, Nature.",
+    "Almahata Sitta turned out to be an extraordinarily heterogeneous polymict breccia: dozens of individually classified stones span ureilites plus enstatite, ordinary (H, L), R and carbonaceous chondrite lithologies in the same strewn field, some in direct physical contact — evidence the parent body was itself a gravitationally reaccreted rubble pile sampling many distinct source materials (Bischoff et al. 2010; Goodrich et al. 2019).",
+    "First recorded fall of a polymict ureilite, and material of a type essentially unrepresented in prior meteorite collections because it is mechanically too fragile to normally survive atmospheric entry and desert weathering intact.",
+    "Established the search-and-recovery method (predicted strewn field walked systematically by a search line) used, with variations, in every subsequent recovered fall in this series.",
+    "Petrologic and noble-gas studies of Almahata Sitta fragments constrained the ureilite parent body's shallow-mantle origin, its catastrophic disruption history, and the timing of a late regolith-mixing event that welded chondritic clasts onto ureilitic material shortly before 2008 TC3 itself was produced by a further breakup."
+  ],
+  "notable_papers": [
+    {"authors": "Jenniskens, P. et al.", "year": 2009, "journal_or_venue": "Nature 458, 485-488", "topic": "The impact and recovery of asteroid 2008 TC3; pre-impact spectroscopy matched to recovered meteorite", "url_or_doi": "10.1038/nature07920"},
+    {"authors": "Bischoff, A. et al.", "year": 2010, "journal_or_venue": "Meteoritics & Planetary Science 45", "topic": "Almahata Sitta as a spectacular breccia of many different ureilitic and chondritic lithologies", "url_or_doi": "10.1111/j.1945-5100.2010.01108.x"},
+    {"authors": "Jenniskens, P.", "year": 2010, "journal_or_venue": "Meteoritics & Planetary Science 45", "topic": "2008 TC3 and the search for the ureilite parent body", "url_or_doi": "10.1111/j.1945-5100.2010.01156.x"},
+    {"authors": "Goodrich, C. A. et al.", "year": 2019, "journal_or_venue": "Meteoritics & Planetary Science 54", "topic": "First samples showing direct contacts between ureilitic and chondritic lithologies in Almahata Sitta", "url_or_doi": "10.1111/maps.13390"},
+    {"authors": "Shaddad, M. H. et al.", "year": 2010, "journal_or_venue": "Meteoritics & Planetary Science 45", "topic": "Recovery campaigns and geographic distribution of the Almahata Sitta strewn field", "url_or_doi": null}
+  ],
+  "narrative": "Richard Kowalski found a faint, fast-moving 19th-magnitude point of light with the Catalina Sky Survey's Mount Lemmon telescope at 06:39 UTC on 6 October 2008; automated software flagged it as a possible impactor within hours, the first time this had ever happened for a real object. Over the next 19 hours, more than two dozen observatories on four continents raced to refine the orbit as the object, provisionally named 2008 TC3, brightened toward its inevitable atmospheric entry. It struck at 02:45:45 UTC on 7 October, exploding in an airburst over Sudan's Nubian Desert at roughly 37 km altitude, an event witnessed by a passing KLM airliner crew and recorded by US government sensors and infrasound stations. Two months later, Peter Jenniskens and Muawia Shaddad led University of Khartoum students on foot across the predicted strewn field and recovered dozens, eventually some 600, small dark stones now known as Almahata Sitta. The spectrum of one recovered stone matched the pre-impact telescopic spectrum of 2008 TC3 almost exactly, closing the loop between a tracked asteroid and the rock in hand for the first time in history, and the fall's extreme lithological diversity reshaped thinking about how rubble-pile asteroids assemble.",
+  "sources": [
+    "https://www.nature.com/articles/nature07920",
+    "https://onlinelibrary.wiley.com/doi/10.1111/j.1945-5100.2010.01108.x",
+    "https://onlinelibrary.wiley.com/doi/10.1111/j.1945-5100.2010.01156.x",
+    "https://onlinelibrary.wiley.com/doi/10.1111/maps.13390",
+    "https://neo.ssa.esa.int/past-impactors/2008tc3",
+    "https://www.johnstonsarchive.net/astro/2008TC3.html",
+    "https://en.wikipedia.org/wiki/2008_TC3"
+  ]
+}

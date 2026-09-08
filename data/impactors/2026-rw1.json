@@ -1,0 +1,59 @@
+{
+  "designation": "2026 RW1",
+  "slug": "2026-rw1",
+  "discovery": {
+    "date_utc": "2026-09-06",
+    "time_utc": "08:45",
+    "survey": "Catalina Sky Survey",
+    "station_code": "G96",
+    "telescope": "1.5 m Mount Lemmon reflector",
+    "discoverer": null,
+    "magnitude_at_discovery": null
+  },
+  "impact": {
+    "date_utc": "2026-09-06",
+    "time_utc": "16:07:00",
+    "location_description": "Indian Ocean, roughly 750 km northwest of the Western Australian coast, near 13.8 S, 116.4 E",
+    "lat": -13.8,
+    "lon": 116.4,
+    "context": "Open ocean, local midnight, slow (~5 km/s geocentric) low-energy entry; no known witnesses. Predicted corridor within range of the Desert Fireball Network in Western Australia, but at the edge of its coverage, and outside geostationary lightning-mapper coverage for that ocean basin."
+  },
+  "warning_time_hours": 7.360314666666667,
+  "orbit": {
+    "class": "Aten",
+    "a_au": 0.943,
+    "e": 0.192,
+    "i_deg": 1.51,
+    "q_au": 0.762,
+    "Q_au": 1.120,
+    "U": 4,
+    "source": "JPL SBDB, fetched 2026-09-07 (repo data/sbdb_orbits.txt); nobs=29 used, matching the MPC total of 30 within one observation"
+  },
+  "physical": {
+    "diameter_m_estimate": "~0.8 m",
+    "velocity_km_s": 5,
+    "entry_angle_deg": null,
+    "energy_kt_measured": null,
+    "energy_kt_modeled": 0.015,
+    "mass_estimate_kg": null
+  },
+  "confirmation": {
+    "meteorites": null,
+    "sensor_detections": [],
+    "camera_networks": [],
+    "eyewitness": "None reported as of the compilation of this dataset (2026-09-07/08)."
+  },
+  "scientific_results": [
+    "First Aten-class object ever discovered before impacting Earth; every one of the previous 12 pre-impact detections was an Apollo. Its Aten orbit (a=0.943 AU, aphelion 1.12 AU) means Earth overtook it from behind near aphelion, producing the lowest relative entry velocity (about 5 km/s) and lowest modeled energy (roughly 0.01-0.02 kt) yet recorded among pre-detected impactors.",
+    "First case where a precovery from the previous night, by an independent survey (Pan-STARRS 2, F52, on 2026-09-05), was identified and linked to the object while it was still inbound, rather than discovered retrospectively after impact (as with 2019 MO) or only 1-2 hours earlier same-night (2024 XA1, 2026 JN4). This extended the observed arc to roughly 27 hours despite a formal 'warning time' (discovery-to-impact) of about 7.4 hours.",
+    "As of the MPC's newer post-2026-JN4 policy, MPEC 2026-R64 explicitly withholds 2026 RW1 from the official past-impactors list pending confirmation of a ground or air impact — a live illustration of the gap between P(impact | astrometry), which is effectively unity here, and P(same object | impact evidence), which remains unresolved.",
+    "The event sits in the same open-ocean/remote sensor gap northwest of Australia as 2026 JN4 four months earlier, underscoring that geography, not the object's intrinsic detectability, governs whether a predicted impact ever receives independent confirmation."
+  ],
+  "notable_papers": [],
+  "narrative": "2026 RW1 was picked up by the Catalina Sky Survey at Mount Lemmon on the morning of 6 September 2026 and posted to the NEO Confirmation Page under the temporary designation CERNQ52; automated impact-monitoring systems (JPL Scout, ESA Meerkat) quickly flagged a high-probability Earth impact for later that same day. With roughly seven hours' warning, and buoyed by a precovery pair from Pan-STARRS 2 the previous night that extended the known arc to about 27 hours, orbit determination pinned the entry to 16:07 UTC over the Indian Ocean northwest of Australia. Because it approached Earth on an Aten orbit near its own aphelion, Earth overtook it from behind at only about 5 km/s, producing an unusually gentle, low-energy entry unlikely to register on the sensors and camera networks that confirmed earlier cases. As of the most recent available reporting, no fireball, sensor detection, or eyewitness account had been linked to the predicted impact, and under the Minor Planet Center's post-2026-JN4 policy the object has not been added to the official past-impactors list pending such confirmation.",
+  "sources": [
+    "https://www.minorplanetcenter.net/mpec/K26/K26R64.html",
+    "https://earthsky.org/space/small-asteroid-impact-australia-sep-6-2026/",
+    "https://watchers.news/2026/09/07/asteroid-2026-rw1-impacts-earth-over-indian-ocean-september-6-2026-13th-predicted-impactor/"
+  ]
+}

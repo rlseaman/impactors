@@ -1,0 +1,82 @@
+{
+  "designation": "2024 XA1",
+  "slug": "2024-xa1",
+  "discovery": {
+    "date_utc": "2024-12-03",
+    "time_utc": "05:54",
+    "survey": "Kitt Peak-Bok",
+    "station_code": "V00",
+    "telescope": "2.3 m Bok telescope, Kitt Peak, Arizona (2.25 m reflector + 4x4K mosaic CCD)",
+    "discoverer": "V. F. Carvajal",
+    "magnitude_at_discovery": 20.0
+  },
+  "impact": {
+    "date_utc": "2024-12-03",
+    "time_utc": "16:14:53",
+    "location_description": "Remote taiga of the Sakha Republic (Yakutia), Russia, about 89 km north of the city of Olekminsk, 37 km northeast of the village of Kiliyer, and roughly 950 km east of the 1908 Tunguska epicenter",
+    "lat": 60.6285,
+    "lon": 119.0713,
+    "context": "Sparsely populated, remote Siberian forest/taiga terrain at night (local time roughly 1:15 AM); the fireball was captured by a live public webcam in Lensk and seen by residents of Olekminsk and Lensk districts"
+  },
+  "warning_time_hours": 10.34,
+  "orbit": {
+    "class": "APO",
+    "a_au": 1.700,
+    "e": 0.498,
+    "i_deg": 0.11,
+    "q_au": 0.852,
+    "Q_au": 2.540,
+    "U": 5,
+    "source": "JPL SBDB fetched 2026-09-07 (76 obs used in fit); a near-impact heliocentric fit from Gianotto et al. 2025 at epoch 2024-10-01 gives a=1.68911±0.00005 AU, e=0.49518±0.00002, i=0.10824±0.00001 deg, consistent within rounding"
+  },
+  "physical": {
+    "diameter_m_estimate": "~0.6-1 m (H=33.05-33.58 assuming albedo 0.14); described in the discovery paper and press as \"about one meter\"",
+    "velocity_km_s": 15.52,
+    "entry_angle_deg": 50.6,
+    "energy_kt_measured": null,
+    "energy_kt_modeled": null,
+    "mass_estimate_kg": null
+  },
+  "confirmation": {
+    "meteorites": {
+      "found": false,
+      "name": null,
+      "total_mass_kg": null,
+      "count": null,
+      "class": null,
+      "notes": "No meteorites recovered as of the most recent published source (Gianotto et al. 2025, and no update found in 2025-2026 reporting). The main fragmentation was modeled at 23.7-40.6 km altitude depending on assumed strength (0.5-5 MPa). An ab initio strewn field (no camera-network trajectory existed) was computed centered near 61.1N, 119.8E, about 10 km long, 13 km ahead of the theoretical impact point, in taiga terrain the authors judge will be hard to search on foot. No organized recovery expedition had been reported as of publication."
+    },
+    "sensor_detections": [],
+    "camera_networks": [],
+    "eyewitness": "Live public webcam in Lensk, Sakha Republic, captured the fireball at the predicted time and direction (video used by ESA NEOCC to validate the impact prediction); numerous eyewitnesses across the Olekminsk and Lensk districts of Yakutia reported a bright flash and comet-like tail; no all-sky camera network covers this region so no independent instrumental trajectory exists"
+  },
+  "scientific_results": [
+    "First (or among the first) cases where ESA's Aegis Orbit Determination and Impact Monitoring system and the Meerkat imminent-impactor warning service jointly processed a NEOCP object from initial 1% impact-probability alert to a 100% impact call within about two hours of follow-up astrometry (07:31 to 07:50 UTC), demonstrating operational imminent-impactor infrastructure beyond the discovering survey",
+    "Because no fireball camera network or satellite sensor recorded a trajectory, Gianotto et al. (2025) computed a purely dynamical 'ab initio' strewn field directly from the pre-impact orbit and a local atmospheric/wind profile, rather than from an observed fireball trajectory as was done for 2008 TC3, 2023 CX1, and 2024 BX1 -- a demonstration that meteorite search zones can be predicted from astrometry alone when no camera coverage exists",
+    "Impact-point uncertainty at 100 km altitude shrank from about 400 km (at discovery) to about 1 km (by time of impact) to a final 220 m with the complete 79-observation dataset, quantifying how fast an imminent-impactor solution stiffens with a few hours of follow-up",
+    "The high entry inclination (~51 deg to the ground) caused the strewn-field solutions for three different assumed asteroid strengths (0.5, 1, 5 MPa) to overlap substantially, which the authors note is favorable for any future ground search despite the remote taiga terrain"
+  ],
+  "notable_papers": [
+    {
+      "authors": "Gianotto, F., Carbognani, A., Fenucci, M., Devogèle, M., Ramirez-Moreta, P., Micheli, M., Salerno, R., Santana-Ros, T., Cano, J.L., Conversi, L., Drury, C., Faggioli, L., Föhring, D., Kresken, R., Machnitzky, S., Moissl, R., Ocaña, F., Oliviero, D., Alonso-Peleato, E., Revellino, M., Rudawska, R.",
+      "year": 2025,
+      "journal_or_venue": "Icarus, 433, 116511",
+      "topic": "Reconstruction of the discovery, follow-up, orbit determination, and impact of 2024 XA1, and an ab initio computation of possible meteorite strewn fields",
+      "url_or_doi": "https://doi.org/10.1016/j.icarus.2025.116511"
+    }
+  ],
+  "narrative": "V. F. Carvajal picked up a faint, magnitude-20 point of light with the 2.3 m Bok telescope at Kitt Peak at 05:54 UTC on 3 December 2024, some 420,000 km from Earth; the object was provisionally tagged C0WEPC5 on the Minor Planet Center's Confirmation Page with an initial impact probability under 1%. An hour later, follow-up astrometry from Steward Observatory's Mount Lemmon station tightened the orbit, and at 07:50 UTC ESA's Meerkat imminent-impactor system declared a 100% impact probability for a window between 15:38 and 17:06 UTC, a call confirmed within minutes by NASA's Scout and NEODyS's NEOScan. Observers scrambled to follow the fast-moving target across time zones -- Las Cumbres Observatory in Hawaii, then telescopes in India and elsewhere -- until the object entered Earth's shadow about 20 minutes before impact and could no longer be seen. It struck the atmosphere at 16:14:52.87 UTC over the remote taiga of the Sakha Republic at 15.5 km/s and a steep 51-degree angle, producing a fireball that a live public webcam in Lensk happened to catch on camera and that many residents of the Olekminsk and Lensk districts witnessed directly. With no camera network to triangulate a ground trajectory and no US government sensor detection, Italian and ESA researchers instead computed a strewn field purely from the pre-impact orbit and local wind data, centered roughly 89 km north of Olekminsk in dense taiga -- but as of the most recent published report, no organized search had recovered any meteorite from the fall."
+  ,
+  "sources": [
+    "https://minorplanetcenter.net/mpec/K24/K24X68.html",
+    "https://neo.ssa.esa.int/past-impactors/2024xa1",
+    "https://doi.org/10.1016/j.icarus.2025.116511",
+    "https://rua.ua.es/server/api/core/bitstreams/e978b539-a3ed-49dd-9921-65c9129e11df/content",
+    "https://www.imo.net/location-of-possible-meteorites-for-the-nea-2024-xa1/",
+    "https://www.emeteornews.net/2025/02/25/news-from-the-meteor-library-the-fall-of-asteroid-2024-xa1-and-the-location-of-possible-meteorites/",
+    "https://www.euronews.com/2024/12/04/falling-asteroid-lights-up-sky-in-russias-siberian-republic-of-yakutia",
+    "https://www.forbes.com/sites/jamiecartereurope/2024/12/04/asteroid-explodes-in-earths-atmosphere---what-to-know/",
+    "https://www.newsweek.com/asteroids-meteor-fireball-siberia-russia-meteorite-space-1995326",
+    "https://en.wikipedia.org/wiki/2024_XA1"
+  ]
+}

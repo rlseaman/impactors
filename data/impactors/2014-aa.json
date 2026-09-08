@@ -1,0 +1,65 @@
+{
+  "designation": "2014 AA",
+  "slug": "2014-aa",
+  "discovery": {
+    "date_utc": "2014-01-01",
+    "time_utc": "06:18",
+    "survey": "Catalina Sky Survey",
+    "station_code": "G96",
+    "telescope": "1.5 m Mount Lemmon reflector",
+    "discoverer": "Richard Kowalski",
+    "magnitude_at_discovery": null
+  },
+  "impact": {
+    "date_utc": "2014-01-02",
+    "time_utc": "~03:05 (computed from infrasound, not directly observed)",
+    "location_description": "Mid-Atlantic Ocean, roughly 1,450 km northeast of French Guiana; predicted uncertainty corridor spanned from Central America to East Africa before infrasound narrowed it",
+    "lat": 14.63,
+    "lon": -43.42,
+    "context": "Deep open ocean, far from any landmass or shipping; no optical, satellite, or radar detection of any kind."
+  },
+  "warning_time_hours": 20.8,
+  "orbit": {
+    "class": "Apollo",
+    "a_au": 1.160,
+    "e": 0.211,
+    "i_deg": 1.41,
+    "q_au": 0.917,
+    "Q_au": 1.410,
+    "U": 9,
+    "source": "JPL SBDB, fetched 2026-09-07 (repo data/sbdb_orbits.txt); nobs=7-8"
+  },
+  "physical": {
+    "diameter_m_estimate": "~2-3.8 m",
+    "velocity_km_s": null,
+    "entry_angle_deg": null,
+    "energy_kt_measured": null,
+    "energy_kt_modeled": null,
+    "mass_estimate_kg": null
+  },
+  "confirmation": {
+    "meteorites": null,
+    "sensor_detections": ["Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO) International Monitoring System infrasound, 3 stations"],
+    "camera_networks": [],
+    "eyewitness": "None; no optical, satellite-flash, or radar detection was ever obtained -- infrasound is the sole evidence base."
+  },
+  "scientific_results": [
+    "2014 AA is the only one of the 13 cases confirmed exclusively by ground-based infrasound triangulation, with zero optical, satellite-sensor, or eyewitness corroboration -- a methodological first that demonstrated CTBTO's nuclear-test-monitoring network could double as a NEO-impact confirmation tool.",
+    "Farnocchia, Chesley, Brown & Chodas (2016, Icarus) combined the sparse 7-point, 69-minute optical arc with the infrasound-derived impact time/location in a joint least-squares fit, substantially refining both the pre-impact orbit and the impact location beyond what either data source gave alone.",
+    "de la Fuente Marcos et al. (2016, Astrophysics & Space Science) independently re-derived impact parameters and explored the pre-impact orbital evolution, cross-checking the Farnocchia et al. solution.",
+    "As the very first case where an impact was confirmed with no fireball imagery at all, 2014 AA established the analytical template (arc + external timing constraint) later reused for 2019 MO and 2024 UQ."
+  ],
+  "notable_papers": [
+    {"authors": "Farnocchia, D., Chesley, S. R., Brown, P. G., Chodas, P. W.", "year": 2016, "journal_or_venue": "Icarus 274, 327-333", "topic": "The trajectory and atmospheric impact of asteroid 2014 AA", "url_or_doi": "10.1016/j.icarus.2016.02.056"},
+    {"authors": "de la Fuente Marcos, C., de la Fuente Marcos, R., et al.", "year": 2016, "journal_or_venue": "Astrophysics and Space Science 361, 358", "topic": "Homing in for New Year: impact parameters and pre-impact orbital evolution of meteoroid 2014 AA", "url_or_doi": "10.1007/s10509-016-2945-3"}
+  ],
+  "narrative": "Richard Kowalski discovered 2014 AA with the Mount Lemmon telescope at 06:18 UTC on 1 January 2014, obtaining just seven positions over 69 minutes before the object faded from view -- too short an arc to pin down anything but a wide impact corridor stretching from Central America to East Africa. No fireball, satellite flash, or eyewitness report ever surfaced; the only confirming evidence came about a day later, when three CTBTO infrasound stations recorded a signal consistent with an atmospheric explosion over the open Atlantic, roughly 1,450 km northeast of French Guiana, about 20.8 hours after discovery. Two independent groups (Farnocchia et al. 2016; de la Fuente Marcos et al. 2016) later combined the sparse optical astrometry with the infrasound timing to refine the object's orbit and impact parameters, establishing that a hazardous-sized object had struck Earth with confirmation resting on treaty-monitoring instruments never designed for astronomy. It remains the only one of the 13 cases with no optical or satellite detection of the impact itself.",
+  "sources": [
+    "https://arxiv.org/abs/1601.03339",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0019103516001354",
+    "https://ui.adsabs.harvard.edu/abs/2016Icar..274..327F",
+    "https://arxiv.org/abs/1610.01055",
+    "https://skyandtelescope.org/astronomy-news/small-asteroid-2014-aa-hitsearth/",
+    "https://www.jpl.nasa.gov/news/first-2014-asteroid-discovered-update/"
+  ]
+}

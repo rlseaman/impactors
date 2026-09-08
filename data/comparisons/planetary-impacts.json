@@ -1,0 +1,117 @@
+[
+  {
+    "body": "Jupiter",
+    "event_name": "Comet Shoemaker-Levy 9 (D/1993 F2) impact series",
+    "date": "1994-07-16 to 1994-07-22",
+    "description": "Comet Shoemaker-Levy 9, discovered 1993-03-24 by Carolyn and Eugene Shoemaker and David Levy, had been tidally captured by Jupiter and torn apart into a chain of at least 21 (up to 23 counted) discrete fragments during a close passage inside the Roche limit on 1992-07-08. The fragment train stretched roughly 1.1 million km, and over six days in July 1994 each fragment (lettered A through W) struck Jupiter's southern hemisphere in succession at about 60 km/s, out of direct Earth view but observable near the limb and, minutes later, as the impact sites rotated into view. The largest fragments (G, K, and others) produced plumes rising 1,900-3,000 km above the cloud tops and left dark debris scars in the atmosphere, some larger than Earth, that persisted for months and were tracked by essentially every major observatory on Earth and in space (including the newly repaired Hubble Space Telescope, Galileo en route to Jupiter, and the Voyager 2/Ulysses spacecraft).",
+    "discoverer_or_mission": "Carolyn Shoemaker, Eugene Shoemaker, and David Levy (comet discovery); observed globally by ground observatories, Hubble Space Telescope (H. Weaver, H. Hammel imaging teams), and the Galileo spacecraft (direct line-of-sight to impact sites)",
+    "scientific_significance": "The first direct observation of a collision between two Solar System bodies. It revealed Jupiter's role as a 'cosmic vacuum cleaner' shielding the inner Solar System, gave the first empirical calibration of large-body impact energetics and atmospheric effects on a giant planet, and produced the first direct evidence of an active impact hazard in the present-day Solar System rather than only in the geologic past. It is widely credited as the single event that turned NEO detection ('planetary defense') into a funded government priority: by 1998 the U.S. Congress had directed NASA to find 90% of near-Earth asteroids >=1 km within ten years (the 'Spaceguard' goal, met by end of 2010), a mandate whose political momentum traces directly to SL9's Hubble imagery.",
+    "energy_or_scale": "Combined impact energy across all fragments estimated in the range of hundreds of thousands of megatons to several million megatons of TNT equivalent (individual large fragments alone estimated at up to several million Mt, i.e., orders of magnitude greater than the entire world's nuclear arsenal); largest fragments estimated at roughly 1-2 km across",
+    "key_papers": [
+      {"authors": "Hammel, H.B., Beebe, R.F., Ingersoll, A.P., et al.", "year": 1995, "venue": "Science", "topic": "HST imaging of atmospheric phenomena created by the collision of Comet Shoemaker-Levy 9 with Jupiter"},
+      {"authors": "Weaver, H.A., A'Hearn, M.F., Arpigny, C., et al.", "year": 1995, "venue": "Science", "topic": "The Hubble Space Telescope (HST) observing campaign on Comet Shoemaker-Levy 9"},
+      {"authors": "Sekanina, Z.", "year": 1996, "venue": "Astronomical Journal", "topic": "Nuclear splitting, disintegration, and the mass/size distribution of fragments of Comet Shoemaker-Levy 9"},
+      {"authors": "Chapman, C.R.", "year": 1996, "venue": "Annual Review of Earth and Planetary Sciences", "topic": "The Galileo encounters with comet Shoemaker-Levy 9 and their planetary-defense implications"}
+    ],
+    "sources": [
+      "https://science.nasa.gov/science-research/planetary-science/the-lasting-impacts-comet-shoemaker-levy-9/",
+      "https://www.nasa.gov/centers-and-facilities/goddard/how-historic-jupiter-comet-impact-led-to-planetary-defense/",
+      "https://spacenews.com/how-the-shoemaker-levy-9-comet-impact-on-jupiter-led-to-planetary-defense/",
+      "https://www.skyatnightmagazine.com/space-science/impacting-jupiter-comet-shoemaker-levy-9-25-years-on"
+    ]
+  },
+  {
+    "body": "Jupiter",
+    "event_name": "2009 Jupiter impact scar (Wesley impact)",
+    "date": "2009-07-19",
+    "description": "Australian amateur astronomer Anthony Wesley, observing from his home observatory near Murrumbateman, New South Wales, with a 14.5-inch (37 cm) reflector, spotted a new dark spot near Jupiter's south polar region -- almost exactly 15 years to the day after the first SL9 fragment struck. He alerted professional observatories, and follow-up imaging (Gemini Observatory's infrared imaging, and later Hubble) confirmed a genuine atmospheric impact scar comparable in some respects to the SL9 scars, indicating a fresh impactor rather than a normal atmospheric feature.",
+    "discoverer_or_mission": "Anthony Wesley (amateur, visual/video discovery); confirmed by Gemini Observatory (Hawaii/Chile) and Hubble Space Telescope follow-up",
+    "scientific_significance": "Demonstrated that Jupiter impacts of this scale are not one-off events on the timescale of SL9 (once per few centuries in earlier assumptions) but occur more frequently than expected, and that amateur astronomers with modest equipment can make first discoveries of Solar System-significant transient events, materially expanding the observational network available for impact monitoring.",
+    "energy_or_scale": "Impactor estimated at roughly 200-500 m across (likely an asteroid rather than icy comet fragment, based on scar morphology and lack of a fragment train); precise energy not well constrained but the scar was comparable in size to some SL9 scars",
+    "key_papers": [
+      {"authors": "Sanchez-Lavega, A., Wesley, A., Orton, G., et al.", "year": 2010, "venue": "Astrophysical Journal Letters", "topic": "The impact of a large object on Jupiter in July 2009"},
+      {"authors": "Hammel, H.B., Wong, M.H., Clarke, J.T., et al.", "year": 2010, "venue": "Astrophysical Journal Letters", "topic": "Jupiter after the 2009 impact: Hubble Space Telescope imaging of the impact-generated debris and its temporal evolution"}
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/2009_Jupiter_impact_event",
+      "https://apod.nasa.gov/apod/ap090723.html",
+      "https://www.planetary.org/articles/2049",
+      "https://www.gemini.edu/news/announcements/geminiann11003"
+    ]
+  },
+  {
+    "body": "Jupiter",
+    "event_name": "2010-2012 amateur-detected Jupiter flash impacts",
+    "date": "2010-06-03, 2010-08-20, 2012-09-10 (additional smaller flashes reported through the 2010s)",
+    "description": "Following the 2009 scar discovery, amateur observers began routinely video-monitoring Jupiter for brief optical flashes -- direct atmospheric-entry fireballs rather than lingering scars. Anthony Wesley recorded the first confirmed flash impact on 2010-06-03 while visiting Broken Hill, Australia; a second flash was caught by Masayuki Tachikawa (Japan) on 2010-08-20 and confirmed by other Japanese observers; a brighter flash was visually spotted by Dan Petersen (Wisconsin, USA) on 2012-09-10 and confirmed on video by George Hall (Texas, USA). Unlike the 1994 and 2009 events, these left no lasting visible scar, consistent with smaller impactors that deposited their energy at altitude without penetrating deep enough to loft persistent debris.",
+    "discoverer_or_mission": "Anthony Wesley; Masayuki Tachikawa, Kazuo Aoki, Masayuki Ishimaru; Dan Petersen and George Hall -- all amateur astronomers using consumer/amateur telescopes and video cameras",
+    "scientific_significance": "Established, via light-curve analysis, that Jupiter is struck by objects in the 5-20 m size range (i.e., Chelyabinsk-scale impactors) often enough to be caught by a worldwide network of amateur video monitors, allowing statistical impact-flux estimates for small bodies at Jupiter's distance and, by extension, constraints on the size-frequency distribution of small objects throughout the outer Solar System. Helped establish continuous amateur/professional collaborative monitoring (e.g., the PVOL/DeTeCt software project) as a standing planetary-defense-adjacent observational capability.",
+    "energy_or_scale": "Individual impactors estimated at roughly 5-20 m diameter, with released energy comparable to terrestrial superbolides in the Chelyabinsk class",
+    "key_papers": [
+      {"authors": "Hueso, R., Wesley, A., Go, C., et al.", "year": 2010, "venue": "Astrophysical Journal Letters", "topic": "First Earth-based detection of a superbolide on Jupiter"},
+      {"authors": "Hueso, R., Sanchez-Lavega, A., Guillot, T., et al.", "year": 2013, "venue": "Astronomy & Astrophysics", "topic": "Impact flux on Jupiter: from superbolides to large-scale collisions"}
+    ],
+    "sources": [
+      "https://www.jpl.nasa.gov/news/caught-in-the-act-fireballs-light-up-jupiter/",
+      "https://www.sciencedaily.com/releases/2010/09/100909212309.htm",
+      "https://www.space.com/17534-jupiter-impact-explosion-amateur-astronomers.html",
+      "https://www.aanda.org/articles/aa/full_html/2013/12/aa22216-13/aa22216-13.html",
+      "https://www.lpi.usra.edu/features/jupiter/impacts/"
+    ]
+  },
+  {
+    "body": "Moon",
+    "event_name": "NASA Lunar Impact Monitoring Program",
+    "date": "2006-present (ongoing survey program)",
+    "description": "NASA's Meteoroid Environment Office, based at Marshall Space Flight Center in Huntsville, Alabama, began systematically monitoring the Moon's dark limb for optical flashes caused by meteoroid impacts starting in 2006, originally to characterize the meteoroid environment for the (since-cancelled) Constellation return-to-Moon program. Two or more telescopes with video cameras (at MSFC and a second station in northern Georgia, about 100 km away) observe the unilluminated portion of the Moon up to ~10 nights per month; candidate flashes must be confirmed simultaneously by two stations and are photometrically calibrated against background stars before being logged.",
+    "discoverer_or_mission": "NASA Meteoroid Environment Office (MSFC), led by Bill Cooke's group",
+    "scientific_significance": "Provides a long-baseline, statistically robust measurement of the flux of kilogram-to-tens-of-kilogram meteoroids striking an airless body, complementing (and cross-checking) meteor-camera measurements of the same population in Earth's atmosphere; used to refine spacecraft micrometeoroid risk models for lunar missions (including Artemis-era planning) and as an independent constraint on near-Earth meteoroid population models.",
+    "energy_or_scale": "Over 300 confirmed flashes logged since 2005 (as of published survey results); brightest recorded flash to date occurred 2013-03-17, corresponding to an impactor estimated at roughly 0.3-0.4 m and tens of kg, releasing energy in the ~5-ton-TNT range at the lunar surface",
+    "key_papers": [
+      {"authors": "Suggs, R.M., Moser, D.E., Cooke, W.J., Suggs, R.J.", "year": 2014, "venue": "Icarus", "topic": "The flux of kilogram-sized meteoroids from lunar impact monitoring"},
+      {"authors": "Moser, D.E., Suggs, R.M., Kupferschmidt, L., Feldman, J.", "year": 2011, "venue": "Proceedings of the Meteoroids Conference", "topic": "Lunar impact flash locations from NASA lunar impact monitoring"}
+    ],
+    "sources": [
+      "https://www.nasa.gov/meteoroid-environment-office/lunar-impact-monitoring/",
+      "https://link.springer.com/article/10.1007/s11038-007-9184-0",
+      "https://www.sciencedirect.com/science/article/abs/pii/S0019103514002243"
+    ]
+  },
+  {
+    "body": "Mars",
+    "event_name": "HiRISE/CTX orbital detection of fresh impact craters",
+    "date": "2006-present (ongoing survey, individual detections dated to their imaging epoch)",
+    "description": "The Mars Reconnaissance Orbiter's Context Camera (CTX) repeatedly images most of Mars at moderate resolution; comparison of images taken years apart reveals new dark or light 'blast zone' scars where none existed before. Candidate sites are then targeted with the High Resolution Imaging Science Experiment (HiRISE) camera to confirm and characterize an actual crater. Over MRO's ~20 years in orbit this process (increasingly aided by machine-learning classifiers to sift CTX images) has confirmed several hundred to roughly 1,000+ new impact sites, some exposing bright subsurface water ice thrown out by the blast.",
+    "discoverer_or_mission": "NASA Mars Reconnaissance Orbiter (CTX and HiRISE instrument teams, University of Arizona/JPL)",
+    "scientific_significance": "Gives a present-day, directly observed impact rate on Mars, used to calibrate crater-count age-dating of Martian surfaces (a key tool since no Martian samples of known crater age have been returned to Earth); the ice-exposing craters extended the known distribution of shallow buried water ice equatorward of prior detections, relevant to future human-mission resource planning; combined with InSight seismic detections (below), gives an independent cross-check between seismic-inferred and optically confirmed impact rates.",
+    "energy_or_scale": "Individual new craters mostly a few meters to a few tens of meters across, from meteoroids roughly decimeter-to-meter scale; one of the more notable, imaged between March 2010 and May 2012, was only ~4 m across",
+    "key_papers": [
+      {"authors": "Daubar, I.J., McEwen, A.S., Byrne, S., et al.", "year": 2013, "venue": "Icarus", "topic": "The current Martian cratering rate"},
+      {"authors": "Daubar, I.J., Banks, M.E., Schmerr, N.C., et al.", "year": 2020, "venue": "Journal of Geophysical Research: Planets", "topic": "Two Chelyabinsk-sized asteroid impacts on Mars detected by InSight and confirmed by MRO imagery"}
+    ],
+    "sources": [
+      "https://www.jpl.nasa.gov/news/ai-is-helping-scientists-discover-fresh-craters-on-mars/",
+      "https://science.nasa.gov/resource/new-impact-craters-on-mars/",
+      "https://www.jpl.nasa.gov/images/pia13479-new-impact-crater/"
+    ]
+  },
+  {
+    "body": "Mars",
+    "event_name": "InSight seismic detection of meteoroid impacts (including the December 2021 Elysium Planitia impact)",
+    "date": "2020-05-27, 2021-02-18, 2021-08-31, 2021-12-24 (four confirmed seismic-to-crater matches)",
+    "description": "NASA's InSight lander, using its SEIS seismometer, detected four marsquakes later confirmed as meteoroid-impact signals rather than tectonic events, cross-checked against new craters found by MRO CTX/HiRISE imaging at the predicted locations. The largest, a magnitude ~4 event on 2021-12-24 near Amazonis/Elysium Planitia, formed a crater roughly 150 m across (with several smaller satellite craters from fragmentation) and excavated blocks of subsurface water ice -- the closest-to-equator ice ever directly observed on Mars at that time.",
+    "discoverer_or_mission": "NASA InSight lander (seismometer, JPL); crater confirmation by Mars Reconnaissance Orbiter CTX/HiRISE",
+    "scientific_significance": "First direct seismic detection of an impact on another planet matched to an observed crater, opening a new cross-calibration method between seismology and crater counting for airless/thin-atmosphere bodies; the December 2021 event was Chelyabinsk-scale in energy but produced dramatically different surface effects due to Mars's thin atmosphere and lack of an ocean/urban target, illustrating how atmosphere and terrain govern impact consequences as much as impactor energy does.",
+    "energy_or_scale": "December 2021 event: seismic magnitude ~4.0, crater ~150 m diameter, impactor estimated at several meters across; comparable kinetic energy to Chelyabinsk (hundreds of kilotons range) but a very different outcome due to Mars's ~1% Earth-surface atmospheric density",
+    "key_papers": [
+      {"authors": "Posiolova, L.V., Lognonne, P., Banerdt, W.B., et al.", "year": 2022, "venue": "Science", "topic": "Largest recent impact craters on Mars: orbital imaging and surface seismic co-detection"},
+      {"authors": "Garcia, R.F., Daubar, I.J., Beucler, E., et al.", "year": 2022, "venue": "Nature Geoscience", "topic": "Newly formed craters on Mars located using seismic and acoustic wave data from InSight"}
+    ],
+    "sources": [
+      "https://www.jpl.nasa.gov/news/nasas-insight-hears-its-first-meteoroid-impacts-on-mars/",
+      "https://www.jpl.nasa.gov/images/pia25411-insight-detected-impact-in-august-2021",
+      "https://www.brown.edu/news/2022-09-19/meteoroid-impacts",
+      "https://www.nasa.gov/missions/insight/nasas-insight-finds-marsquakes-from-meteoroids-go-deeper-than-expected/"
+    ]
+  }
+]

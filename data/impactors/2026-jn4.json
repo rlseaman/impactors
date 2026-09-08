@@ -1,0 +1,60 @@
+{
+  "designation": "2026 JN4",
+  "slug": "2026-jn4",
+  "discovery": {
+    "date_utc": "2026-05-15",
+    "time_utc": "10:21",
+    "survey": "JPL SynTrack Robotic Telescope",
+    "station_code": "U68",
+    "telescope": "0.28 m SynTrack, Auberry, California",
+    "discoverer": "N. Saini (with R. Trahan and M. Shao)",
+    "magnitude_at_discovery": null
+  },
+  "impact": {
+    "date_utc": "2026-05-15",
+    "time_utc": "13:44 (MPC/IMO/independent computations; ESA NEOCC table gives 15:39, an apparent table error per repo report)",
+    "location_description": "Arafura Sea, between northwestern Australia and Papua New Guinea; predicted corridor was exceptionally wide (over 4,500 km, spanning from northwestern Australia to Micronesia)",
+    "lat": null,
+    "lon": null,
+    "context": "Remote tropical ocean; object entered Earth's shadow (eclipse) about 20 minutes before predicted impact, precluding any further optical tracking."
+  },
+  "warning_time_hours": 3.2,
+  "orbit": {
+    "class": "Apollo",
+    "a_au": 1.490,
+    "e": 0.428,
+    "i_deg": 13.00,
+    "q_au": 0.856,
+    "Q_au": 2.130,
+    "U": 9,
+    "source": "JPL SBDB, fetched 2026-09-07 (repo data/sbdb_orbits.txt); nobs=6"
+  },
+  "physical": {
+    "diameter_m_estimate": "sub-meter to ~1 m (very uncertain given short arc)",
+    "velocity_km_s": null,
+    "entry_angle_deg": null,
+    "energy_kt_measured": null,
+    "energy_kt_modeled": null,
+    "mass_estimate_kg": null
+  },
+  "confirmation": {
+    "meteorites": null,
+    "sensor_detections": [],
+    "camera_networks": [],
+    "eyewitness": "No ground/air impact report had reached the MPC as of the MPEC; the repo's own report cites one eyewitness account from Darwin, Australia matching the predicted time and direction, but this was not independently verified in web sources located during this research pass."
+  },
+  "scientific_results": [
+    "2026 JN4 is the first case in which the MPC formally declined to add an object to its list of confirmed past impactors absent independent ground/air-impact confirmation, per explicit wording in MPEC 2026-J143: 'we are not adding this object to the list of past impactors at this stage.' The same wording was later reused for 2026 RW1, marking a deliberate policy shift toward requiring post-impact evidence rather than treating a high-confidence astrometric solution alone as sufficient.",
+    "It was found via a Zwicky Transient Facility (ZTF, station I41) precovery about 2 hours before the credited SynTrack discovery, then confirmed with a second SynTrack unit (U74) -- illustrating the growing role of purpose-built small-aperture synthetic-tracking systems (rather than only large all-sky surveys) in this detection niche.",
+    "With only 6 observations, a roughly 2-hour arc, and U=9 (the highest/worst uncertainty code in the 13-object set, tied with 2014 AA, 2019 MO, and 2024 UQ), it illustrates the practical floor on orbit precision achievable from a single fast, faint NEOCP tracklet."
+  ],
+  "notable_papers": [],
+  "narrative": "N. Saini and collaborators picked up a small, fast-moving object with JPL's experimental SynTrack synthetic-tracking telescope in Auberry, California at 10:21 UTC on 15 May 2026; a Zwicky Transient Facility precovery from about two hours earlier was quickly identified, and both ESA's Meerkat and JPL's Scout systems independently flagged a high-probability impact. Because the object was faint and the alert landed near North American sunrise, follow-up was minimal, leaving an unusually wide predicted corridor stretching more than 4,500 km from northwestern Australia to Micronesia. The object entered Earth's shadow roughly 20 minutes before the predicted impact time of 13:44 UTC, ending optical tracking, and no ground sensor, infrasound station, satellite, or camera network recorded a confirming detection over the remote Arafura Sea. Lacking independent confirmation, the MPC explicitly declined to add 2026 JN4 to its list of past impactors -- the first time this cautious wording appeared in an MPC circular, setting the precedent later applied to 2026 RW1.",
+  "sources": [
+    "https://minorplanetcenter.net/mpec/K26/K26JE3.html",
+    "https://www.imo.net/2026-jn4-12th-asteroid-discovered-before-atmospheric-entry/",
+    "https://watchers.news/2026/05/16/asteroid-2026-jn4-impacts-earth-arafura-sea-may-15-2026/",
+    "https://neo.ssa.esa.int/past-impactors/2026jn4",
+    "/Users/seaman/Projects/impactors/report/impactor-confidence-report.md (repo's own verified account of the Darwin eyewitness report and MPC policy note)"
+  ]
+}

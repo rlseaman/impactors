@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Chelyabinsk superbolide",
+    "date_utc": "2013-02-15",
+    "location": "Chelyabinsk Oblast, Russia (airburst near Chebarkul, Ural Mountains)",
+    "lat": 54.8,
+    "lon": 61.1,
+    "energy_estimate_kt": "~500 kt TNT (Popova et al. 2013, Science: 570±150 kt from infrasound, 590±50 kt from thermal radiation, consistent with 420±200 kt from seismic; JPL/CNEOS final figure ~440 kt from US government sensor light curve)",
+    "size_estimate_m": "~19-20 m diameter, ~11,000-13,000 tonnes (Popova et al. 2013; Borovicka et al. 2013)",
+    "why_undetected": "Approached from the direction of the Sun in the days before impact; its apparent radiant was too close to the Sun for ground-based optical NEO surveys, which cannot point near the Sun and rely on scanning the night sky. At ~19 m it was also well below the size regime (>=140 m) targeted by the 2005 NASA survey mandate, so even a well-placed survey was not tasked to find it.",
+    "damage_casualties": "Over 1,600 people injured (nearly all from flying glass, not direct blast effects); more than 7,200 buildings across six cities damaged by the shock wave; no direct fatalities. Damage estimated at roughly $33 million.",
+    "detection_method": "Not detected in advance. Characterized after the fact via: dozens of dashcam and security-camera videos across Russia; five-station global infrasound network (CTBTO) with first arrival in Alaska ~6,500 km away; regional seismographs; U.S. government satellite sensor light curve (reported via NASA/CNEOS); recovered meteorites (over 1 tonne total, largest ~654 kg pulled from Lake Chebarkul) allowing orbit and composition (LL5 chondrite) determination.",
+    "scientific_significance": "Largest airburst since Tunguska and the first well-instrumented one, with dense video, infrasound, seismic, satellite, and meteorite datasets analyzed together. Established that decameter-scale impactors are far more damaging (via window/glass injuries from overpressure) than previously modeled, motivated revision of NASA's search goals to include smaller (~30-140 m) objects, and became the direct trigger for the 2013 UN COPUOS endorsement that created IAWN and SMPAG.",
+    "key_papers": [
+      {"authors": "Popova, O.P., Jenniskens, P., Emel'yanenko, V., et al.", "year": 2013, "venue": "Science", "topic": "Chelyabinsk airburst, damage assessment, meteorite recovery, and characterization"},
+      {"authors": "Borovicka, J., Spurny, P., Brown, P., et al.", "year": 2013, "venue": "Nature", "topic": "Trajectory, structure, and origin of the Chelyabinsk asteroidal impactor"},
+      {"authors": "Brown, P.G., Assink, J.D., Astiz, L., et al.", "year": 2013, "venue": "Nature", "topic": "A 500-kiloton airburst over Chelyabinsk and an enhanced hazard from small impactors"}
+    ],
+    "sources": [
+      "https://www.science.org/doi/10.1126/science.1242642",
+      "https://physics.uwo.ca/~pwiegert/chelyabinsk/",
+      "https://www.jpl.nasa.gov/news/additional-details-on-the-large-feb-15-fireball-over-russia/",
+      "https://www.nasa.gov/solar-system/five-years-after-the-chelyabinsk-meteor-nasa-leads-efforts-in-planetary-defense/",
+      "https://www.planetary.org/articles/what-was-the-chelyabinsk-meteor-event"
+    ]
+  },
+  {
+    "name": "Tunguska event",
+    "date_utc": "1908-06-30",
+    "location": "Podkamennaya Tunguska River basin, Siberia, Russian Empire",
+    "lat": 60.9,
+    "lon": 101.9,
+    "energy_estimate_kt": "~10,000-15,000 kt (10-15 Mt) TNT equivalent from combined infrasound/seismic and blast-scaling models; some hydrocode modeling gives up to ~14.6 Mt; upper-end older estimates ran as high as 30-40 Mt",
+    "size_estimate_m": "Commonly cited progenitor size ~50-80 m (stony asteroid or comet fragment), based on airburst-scaling models; no fragments or crater recovered, so composition and exact size remain modeled rather than measured",
+    "why_undetected": "No systematic sky surveys existed in 1908; the concept of near-Earth asteroid detection did not yet exist. Purely a pre-instrumental-era event with no possibility of advance warning.",
+    "damage_casualties": "Flattened roughly 2,150 sq km of Siberian taiga (about 80 million trees), in a remote, essentially uninhabited region; no confirmed direct human fatalities, though local Evenki reindeer herders reported livestock losses and some injuries.",
+    "detection_method": "Airburst at an altitude variously modeled at 5-10 km left no impact crater; recognized only decades later through the felled-tree 'butterfly' pattern (first scientifically surveyed by Leonid Kulik starting in 1927), contemporaneous barograph and seismograph records across Europe and Asia, and anomalous night-sky luminosity reports from as far as the UK in the days after the event.",
+    "scientific_significance": "The largest well-attested atmospheric impact event in the historical record and the type example for airburst (as opposed to cratering) impacts. Decades of reanalysis using modern blast, infrasound, and hydrocode modeling established the basic physics of stony-body airbursts that later underpinned Chelyabinsk-scale hazard modeling; remains the benchmark 'city-killer' scenario in planetary-defense risk assessments (e.g., NASA PAIR model studies).",
+    "key_papers": [
+      {"authors": "Chyba, C.F., Thomas, P.J., Zahnle, K.J.", "year": 1993, "venue": "Nature", "topic": "The 1908 Tunguska explosion: atmospheric disruption of a stony asteroid"},
+      {"authors": "Boslough, M.B.E., Crawford, D.A.", "year": 2008, "venue": "International Journal of Impact Engineering", "topic": "Low-altitude airbursts and the impact threat (Tunguska modeling)"},
+      {"authors": "Mathias, D.L., Wheeler, L.F., Dotson, J.L.", "year": 2017, "venue": "Icarus", "topic": "A probabilistic asteroid impact risk model: assessment of Tunguska-scale airburst risk"}
+    ],
+    "sources": [
+      "https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/",
+      "https://www.britannica.com/event/Tunguska-event",
+      "https://www.rmg.co.uk/stories/space-astronomy/tunguska-event",
+      "https://ntrs.nasa.gov/api/citations/20190002844/downloads/20190002844.pdf",
+      "https://www.sciencedirect.com/science/article/pii/S0019103518304676"
+    ]
+  },
+  {
+    "name": "Sikhote-Alin meteorite fall",
+    "date_utc": "1947-02-12",
+    "location": "Sikhote-Alin Mountains, Primorsky Krai, Soviet Far East",
+    "lat": 46.16,
+    "lon": 134.65,
+    "energy_estimate_kt": "Energy estimate not well constrained in kt-TNT terms in the literature (pre-dates modern airburst energy modeling); notable instead for its large surviving mass",
+    "size_estimate_m": "Pre-atmospheric mass ~100 tonnes (iron meteoroid, IIAB octahedrite); roughly 23,000 kg of fragments recovered, including the largest fully documented iron-meteorite shower on record",
+    "why_undetected": "Daylight entry (mid-morning local time) over a remote, sparsely populated mountainous region decades before any NEO survey existed; an iron body of this size in space would in any case have been far below the detection capability of any instrument of the era.",
+    "damage_casualties": "No human casualties reported; fell in largely unpopulated taiga. More than 100 impact pits were formed, the largest about 26 m across and 6 m deep, from the fragmenting iron mass hitting at high enough velocity to crater despite iron's atmospheric survivability.",
+    "detection_method": "Witnessed directly (bright daylight fireball trail seen and photographed, e.g., by artist P.I. Medvedev) and confirmed by Soviet Academy of Sciences expeditions beginning days after the fall, which mapped the strewn field and crater cluster and recovered thousands of fragments.",
+    "scientific_significance": "The best-documented large iron-meteorite shower, and one of the few events where a metallic (rather than stony) body produced a true crater field from atmospheric-surviving fragments; became a reference case for how iron composition changes airburst/fragmentation and cratering behavior relative to stony bodies like Chelyabinsk or Tunguska.",
+    "key_papers": [
+      {"authors": "Krinov, E.L.", "year": 1966, "venue": "Giant Meteorites (Pergamon Press, translated monograph)", "topic": "Comprehensive expedition report and crater-field survey of the Sikhote-Alin fall"}
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sikhote-Alin_meteorite",
+      "https://www.amnh.org/exhibitions/permanent/meteorites/meteorite-impacts/sikhote-alin",
+      "https://www.sun.org/meteorites/encyclopedia/sikhote-alin"
+    ]
+  },
+  {
+    "name": "Carancas impact event",
+    "date_utc": "2007-09-15",
+    "location": "Near Carancas, Desaguadero, Puno Region, Peru (south of Lake Titicaca, near the Bolivian border)",
+    "lat": -16.67,
+    "lon": -69.04,
+    "energy_estimate_kt": "Estimates range widely depending on assumed target strength: ~0.0024-0.24 kt TNT (about 100-1000 MJ) from crater-formation modeling; an independent infrasound-based estimate gives ~2-3 tonnes TNT (~0.002-0.003 kt)",
+    "size_estimate_m": "H4-5 ordinary chondrite; original meteoroid diameter estimated at roughly 1 m or less pre-atmosphere, decelerated to only 350-600 m/s impact velocity, unusually low for a stony body",
+    "why_undetected": "A meter-class or smaller stony object; far below any survey's detection capability, and stony meteoroids this small were, at the time, generally assumed to fully fragment/decelerate in the atmosphere and NOT be capable of forming a crater at all -- so it was not even a class of event considered a 'miss' by warning systems.",
+    "damage_casualties": "No fatalities; dozens of local residents (initial reports of 100+, later scientific assessment ~30) reported mild symptoms (headaches, nausea) attributed to noxious gases/dust from the impact, not radiation; no significant structural damage. Crater about 13-14.5 m across and 4.5 m deep formed in wet altiplano soil.",
+    "detection_method": "Eyewitnessed impact and crater formation, investigated within days by geologists and planetary scientists (including a Boston University-led team); confirmed by recovered H-chondrite fragments, infrasound records, and detailed crater-morphology surveys and modeling.",
+    "scientific_significance": "First scientifically documented case proving that small (roughly meter-scale), unbroken stony meteoroids CAN survive atmospheric passage intact enough to excavate a true impact crater, overturning the prior consensus (informed by cases like the 1992 Peekskill meteorite, which did not crater) that stony bodies below ~100 m always deform/fragment into a soft landing. Showed that shallow entry angle and low cosmic velocity are the key enabling factors.",
+    "key_papers": [
+      {"authors": "Tancredi, G., Ishitsuka, J., Schultz, P.H., et al.", "year": 2009, "venue": "Meteoritics & Planetary Science", "topic": "A meteorite crater on Earth formed on 2007 September 15: the Carancas hypervelocity impact"},
+      {"authors": "Kenkmann, T., Artemieva, N.A., Wunnemann, K., et al.", "year": 2009, "venue": "Meteoritics & Planetary Science", "topic": "The Carancas meteorite impact crater, Peru: geologic surveying and modeling of crater formation and atmospheric passage"}
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/2007_Carancas_impact_event",
+      "https://ui.adsabs.harvard.edu/abs/2009M&PS...44..985K/abstract",
+      "https://ui.adsabs.harvard.edu/abs/2009M&PS...44.1967T/abstract",
+      "https://www.esa.int/ESA_Multimedia/Images/2011/03/Impact_crater_near_Carancas_Peru_2007"
+    ]
+  },
+  {
+    "name": "Benesov bolide and fall",
+    "date_utc": "1991-05-07",
+    "location": "Near Benesov, Central Bohemia, Czechoslovakia",
+    "lat": 49.78,
+    "lon": 14.68,
+    "energy_estimate_kt": "Sub-kiloton; peak absolute magnitude -19.5, among the brightest ever recorded by the European Fireball Network, but total kinetic energy modest given the small final recovered mass",
+    "size_estimate_m": "Meter-class or smaller progenitor; total recovered meteorite mass only a few hundred grams across three small stones (found in 2011), consistent with severe fragmentation/ablation of a larger, weak, compound body during entry",
+    "why_undetected": "Occurred at night (23:03 UT) and was in fact recorded in real time by the Czech part of the European Fireball Network's all-sky cameras -- so unlike the other entries here it WAS optically detected as it happened, but only after entry, since no asteroid-survey network existed to spot it in space beforehand; it is included here for its uniquely well-instrumented ground-based fireball record despite zero advance warning capability existing at the time.",
+    "damage_casualties": "No damage or injuries reported; fell in a wooded/rural area.",
+    "detection_method": "Recorded by four all-sky cameras and two spectral cameras at three European Fireball Network stations, giving an exceptionally precise trajectory, deceleration, and fragmentation record. Despite an intensive search effort, no meteorite was found for 20 years; three small stones were finally recovered by metal detector in 2011 near Benesov and matched to the fireball via reanalysis of the original photographic data.",
+    "scientific_significance": "One of the best photographically documented meteorite falls of the 20th century and a key test case for fireball fragmentation modeling; the 2011 meteorite recovery and 2014 reanalysis showed the body was a rare polymict breccia (mixing LL3.5, H5, and primitive achondrite lithologies), demonstrating that some meteoroids are physically heterogeneous mixtures from a shattered parent body, which helps explain why photographically 'perfect' fireball data can still fail to predict a strewn field.",
+    "key_papers": [
+      {"authors": "Borovicka, J., Spurny, P., et al.", "year": 2003, "venue": "Solar System Research (translated)", "topic": "Peculiarities of the fragmentation of the Benesov bolide"},
+      {"authors": "Spurny, P., Haloda, J., Borovicka, J., et al.", "year": 2014, "venue": "Astronomy & Astrophysics", "topic": "Reanalysis of the Benesov bolide and recovery of polymict breccia meteorites -- old mystery solved after 20 years"}
+    ],
+    "sources": [
+      "https://www.aanda.org/articles/aa/full_html/2014/10/aa24308-14/aa24308-14.html",
+      "https://www.lpi.usra.edu/meteor/docs/mb100.pdf",
+      "https://link.springer.com/article/10.1023/A:1025030331864"
+    ]
+  }
+]

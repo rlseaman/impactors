@@ -1,0 +1,73 @@
+{
+  "designation": "2023 CX1",
+  "slug": "2023-cx1",
+  "discovery": {
+    "date_utc": "2023-02-12",
+    "time_utc": "20:18",
+    "survey": "GINOP-KHK/Konkoly Observatory (Krisztián Sárneczky)",
+    "station_code": "K88",
+    "telescope": "0.6 m Schmidt, Piszkéstető Station",
+    "discoverer": "Krisztián Sárneczky",
+    "magnitude_at_discovery": 18.0
+  },
+  "impact": {
+    "date_utc": "2023-02-13",
+    "time_utc": "02:59:21",
+    "location_description": "Above Normandy, France, near Angiens/Saint-Pierre-le-Viger, Seine-Maritime; fragmented at ~28 km altitude",
+    "lat": 49.7,
+    "lon": 0.9,
+    "context": "Populated rural region of northern France, night sky, widely witnessed and captured by the dedicated FRIPON all-sky camera network, only ~7 hours after discovery, prompting a rapid public mobilization."
+  },
+  "warning_time_hours": 6.687436444444444,
+  "orbit": {
+    "class": "Apollo",
+    "a_au": 1.640,
+    "e": 0.437,
+    "i_deg": 3.44,
+    "q_au": 0.921,
+    "Q_au": 2.350,
+    "U": 4,
+    "source": "JPL SBDB, fetched 2026-09-07 (repo data/sbdb_orbits.txt); nobs=331 used in JPL fit vs 368 in MPC total"
+  },
+  "physical": {
+    "diameter_m_estimate": "0.72 m (sphere-equivalent, 650 ± 160 kg)",
+    "velocity_km_s": 14.5,
+    "entry_angle_deg": null,
+    "energy_kt_measured": null,
+    "energy_kt_modeled": null,
+    "mass_estimate_kg": 650
+  },
+  "confirmation": {
+    "meteorites": {
+      "found": true,
+      "name": "Saint-Pierre-le-Viger",
+      "total_mass_kg": 1.1,
+      "count": 60,
+      "class": "L5-6 ordinary chondrite breccia, shock stage S3",
+      "notes": "Recovered by the FRIPON/Vigie-Ciel citizen-science network; first ~100 g stone found within 2 days of the fall, eventually >60 stones totaling just over 1 kg. Fell 220 years (almost to the location) after the historic 1803 L'Aigle fall in the same region of Normandy, itself an L6 breccia."
+    },
+    "sensor_detections": [],
+    "camera_networks": ["FRIPON all-sky camera network (France)", "UK meteor camera networks (partial coverage)"],
+    "eyewitness": "Thousands of witnesses across northern France and southern England reported the fireball; extensive video record."
+  },
+  "scientific_results": [
+    "First 'targeted' meteor observation in history: because the impact corridor was known hours in advance, FRIPON/Vigie-Ciel could alert its camera network and the public in real time rather than relying on chance coverage.",
+    "One of only two cases (with 2008 TC3) where both accurate pre-impact astrometric/photometric data and a full multi-station atmospheric-entry trajectory and dark-flight/strewn-field model exist for the same recovered meteorite, letting researchers connect telescope-based size/rotation estimates directly to entry dynamics and lab meteorite properties.",
+    "Egal et al. 2025 (Nature Astronomy) present a complete, closed-loop characterization: pre-atmospheric orbit and rotation state from telescopic photometry, catastrophic disruption dynamics from camera-network light curves (fragmentation at ~4 MPa dynamic pressure, ~98% of kinetic energy released in a narrow altitude band near 28 km), and petrology/mineralogy of the recovered L5-6 breccia, used together as a test case for planetary-defense airburst modeling of meter-scale stony impactors.",
+    "Shock stage S3 and brecciated texture in Saint-Pierre-le-Viger stones tie the source body to a moderately shocked L-chondrite parent, adding one more data point (alongside Almahata Sitta and Ribbeck) to the small but growing sample of meter-scale NEOs with both known pre-impact orbits and known meteorite classes."
+  ],
+  "notable_papers": [
+    {"authors": "Egal, A. et al.", "year": 2025, "journal_or_venue": "Nature Astronomy", "topic": "Catastrophic disruption of asteroid 2023 CX1 and implications for planetary defence", "url_or_doi": "10.1038/s41550-025-02659-8"},
+    {"authors": "Bischoff, A. et al.", "year": 2023, "journal_or_venue": "Meteoritics & Planetary Science", "topic": "Saint-Pierre-le-Viger (L5-6) meteorite from asteroid 2023 CX1, recovered 220 years after the L'Aigle fall in the same region", "url_or_doi": "10.1111/maps.14074"},
+    {"authors": "Zanda, B. et al. (Vigie-Ciel/FRIPON team)", "year": 2023, "journal_or_venue": "84th Annual Meeting of the Meteoritical Society (LPI Contribution)", "topic": "Recovery and planned study of the Saint-Pierre-le-Viger meteorite", "url_or_doi": null}
+  ],
+  "narrative": "Hungarian astronomer Krisztián Sárneczky, working alone at the Piszkéstető Schmidt telescope in the Mátra Mountains, picked up a faint moving object on the evening of 12 February 2023; within hours the Minor Planet Center's automated systems flagged it as an imminent impactor headed for northern France. With just under seven hours of warning, the FRIPON/Vigie-Ciel network — built precisely for this kind of rapid response — alerted its dedicated all-sky camera stations across France and mobilized public spotters. The object, 2023 CX1, streaked in at 02:59 UTC on 13 February, fragmenting catastrophically around 28 km altitude in a blaze visible across Normandy and southern England. Search teams recovered the first meteorite fragment, later named Saint-Pierre-le-Viger, within two days, eventually gathering more than sixty stones a little over a kilometer from where L'Aigle's historic 1803 meteorite fall had struck the same corner of Normandy 220 years earlier. The combination of pre-impact telescopic data, a dense multi-camera atmospheric trajectory, and laboratory analysis of recovered stones made 2023 CX1 one of the most completely characterized small-asteroid falls ever studied, published as a landmark Nature Astronomy paper in 2025.",
+  "sources": [
+    "https://observatoiredeparis.psl.eu/a-fragment-of-asteroid-2023.html",
+    "https://www.nature.com/articles/s41550-025-02659-8",
+    "https://onlinelibrary.wiley.com/doi/10.1111/maps.14074",
+    "https://www.fripon.org/comprehensive-characterization-of-asteroid-2023-cx1-a-unique-case-study-for-planetary-defense/",
+    "https://ui.adsabs.harvard.edu/abs/2023LPICo2990.6206Z/abstract",
+    "https://en.wikipedia.org/wiki/2023_CX1"
+  ]
+}

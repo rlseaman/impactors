@@ -1,0 +1,63 @@
+{
+  "designation": "2022 EB5",
+  "slug": "2022-eb5",
+  "discovery": {
+    "date_utc": "2022-03-11",
+    "time_utc": "19:24",
+    "survey": "GINOP-KHK/Konkoly Observatory",
+    "station_code": "K88",
+    "telescope": "0.6 m Schmidt, Piszkeoto Station",
+    "discoverer": "Krisztian Sarneczky",
+    "magnitude_at_discovery": null
+  },
+  "impact": {
+    "date_utc": "2022-03-11",
+    "time_utc": "21:22:45",
+    "location_description": "Greenland Sea, roughly 100 km south/southwest of Jan Mayen island, between Greenland and Svalbard",
+    "lat": 70.0,
+    "lon": -9.1,
+    "context": "Remote Arctic ocean at night; nearest inhabited land (Jan Mayen) uninhabited except a small Norwegian meteorological/military station."
+  },
+  "warning_time_hours": 2.0,
+  "orbit": {
+    "class": "Apollo",
+    "a_au": 2.830,
+    "e": 0.686,
+    "i_deg": 10.40,
+    "q_au": 0.888,
+    "Q_au": 4.770,
+    "U": 6,
+    "source": "JPL SBDB, fetched 2026-09-07 (repo data/sbdb_orbits.txt); nobs=176-177"
+  },
+  "physical": {
+    "diameter_m_estimate": "~2 m (optical) to 3-4 m (infrasound-derived)",
+    "velocity_km_s": 17.2,
+    "entry_angle_deg": null,
+    "energy_kt_measured": 3.8,
+    "energy_kt_modeled": 0.4,
+    "mass_estimate_kg": null
+  },
+  "confirmation": {
+    "meteorites": {"found": false, "name": null, "total_mass_kg": null, "count": null, "class": null, "notes": "Deep Arctic ocean impact; no recovery attempted."},
+    "sensor_detections": ["US government satellite sensors, ~3.8 kt", "Infrasound at station I37NO (northern Iceland) and I18DK (Greenland), yielding an independent estimate around 2-4 kt"],
+    "camera_networks": [],
+    "eyewitness": "A possible flash reported from northern Iceland; unconfirmed."
+  },
+  "scientific_results": [
+    "2022 EB5 was the first imminent impactor discovered by a European observer/telescope (Sarneczky, Hungary), and the fifth pre-impact discovery overall, establishing Konkoly Observatory's small 0.6 m Schmidt as a credible contributor to the imminent-impactor discovery rate previously dominated by Catalina and Pan-STARRS.",
+    "The roughly order-of-magnitude spread between the ~3.8 kt sensor-measured energy and the ~0.4 kt ESA-modeled energy (from the tracked size/speed alone) is one of the largest measured/modeled discrepancies in the 13-object set, illustrating how uncertain absolute-magnitude-to-size-to-energy conversions remain for meter-class bodies.",
+    "Multi-station infrasound triangulation (Iceland + Greenland) provided an independent cross-check on the US sensor energy estimate, of a kind normally reserved for nuclear-test monitoring."
+  ],
+  "notable_papers": [],
+  "narrative": "Krisztian Sarneczky spotted a fast-moving object with the Piszkesteto Schmidt telescope at 19:24 UTC on 11 March 2022, and within roughly two hours automated hazard-assessment systems confirmed a near-certain impact in the far North Atlantic. The object entered at 21:22:45 UTC southwest of the remote Norwegian island of Jan Mayen, producing an atmospheric explosion recorded by US government sensors at about 3.8 kt and cross-checked by infrasound arrays in Iceland and Greenland. No meteorites were recoverable from the deep Arctic ocean, and the only possible visual sighting -- a flash reported from northern Iceland -- was never confirmed. As the fifth of the 13 pre-impact discoveries and the first made by a European team, 2022 EB5 demonstrated that modest-aperture Old World telescopes could compete with the large American surveys for these fleeting detections.",
+  "sources": [
+    "https://neo.ssa.esa.int/past-impactors/2022eb5",
+    "https://www.imo.net/2022-eb5-5th-predicted-earth-impactor-asteroid-on-march-11/",
+    "https://www.jpl.nasa.gov/news/nasa-system-predicts-impact-of-small-asteroid/",
+    "https://www.sci.news/space/asteroid-2022-eb5-10624.html",
+    "https://www.seti.org/news/asteroid-detected-before-impact/",
+    "https://www.esa.int/Space_Safety/Planetary_Defence/Fifth_asteroid_ever_discovered_before_impact",
+    "https://en.wikipedia.org/wiki/2022_EB5",
+    "https://ssd-api.jpl.nasa.gov/fireball.api"
+  ]
+}

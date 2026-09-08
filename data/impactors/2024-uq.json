@@ -1,0 +1,62 @@
+{
+  "designation": "2024 UQ",
+  "slug": "2024-uq",
+  "discovery": {
+    "date_utc": "2024-10-22",
+    "time_utc": "09:08",
+    "survey": "ATLAS (Asteroid Terrestrial-impact Last Alert System)",
+    "station_code": "T05",
+    "telescope": "0.5 m ATLAS unit telescope, Haleakala",
+    "discoverer": null,
+    "magnitude_at_discovery": null
+  },
+  "impact": {
+    "date_utc": "2024-10-22",
+    "time_utc": "10:54:48",
+    "location_description": "Northeast Pacific Ocean, roughly several hundred km off the California coast",
+    "lat": 30.0,
+    "lon": -136.0,
+    "context": "Open ocean, no possibility of meteorite recovery."
+  },
+  "warning_time_hours": 1.8,
+  "orbit": {
+    "class": "Apollo",
+    "a_au": 2.170,
+    "e": 0.726,
+    "i_deg": 1.71,
+    "q_au": 0.594,
+    "Q_au": 3.740,
+    "U": 7,
+    "source": "JPL SBDB, fetched 2026-09-07 (repo data/sbdb_orbits.txt); nobs=8-9"
+  },
+  "physical": {
+    "diameter_m_estimate": "~1 m",
+    "velocity_km_s": 21,
+    "entry_angle_deg": null,
+    "energy_kt_measured": 0.15,
+    "energy_kt_modeled": null,
+    "mass_estimate_kg": null
+  },
+  "confirmation": {
+    "meteorites": null,
+    "sensor_detections": ["GOES Geostationary Lightning Mapper (GLM) flash", "US government satellite sensors, 0.15 kt at 30.0N 136.0W"],
+    "camera_networks": [],
+    "eyewitness": "None documented; remote ocean location far from shore."
+  },
+  "scientific_results": [
+    "Like 2019 MO, 2024 UQ was recognized as a genuine impactor only after the GOES/sensor flash appeared -- a retrospective search of Catalina Sky Survey (station 703) images then found a faint precovery detection about an hour before the credited ATLAS discovery, extending and firming up the fit after the fact.",
+    "At 21 km/s, it tied 2024 RW1 for the fastest entry velocity in the 13-object set, illustrating that short-warning cases cluster at both extremes of encounter geometry (very slow grazing entries like 2026 RW1, and fast steep ones like this).",
+    "The case reinforced, alongside 2019 MO, that at very short arcs (here about 8-9 observations from 2 stations, U=7) the automated Scout/Meerkat hazard-assessment pipelines can correctly rate an object as an imminent impactor but real-world confirmation of identity still depends on catching a second, independent detection -- sensor, precovery, or both."
+  ],
+  "notable_papers": [],
+  "narrative": "ATLAS's Haleakala telescope picked up 2024 UQ at 09:08 UTC on 22 October 2024; with only about 1.8 hours of warning, follow-up was minimal before the object entered the atmosphere at 10:54:48 UTC over the northeast Pacific, disintegrating at about 38 km altitude and releasing roughly 0.15 kt, recorded by a GOES lightning-mapper flash and US government sensors. A subsequent search of Catalina Sky Survey imagery turned up a faint detection roughly an hour before the ATLAS tracklet began, improving the orbit solution after the fact. With no meteorites possible over open ocean and no eyewitnesses, 2024 UQ -- like 2019 MO five years earlier -- became one of the two cases in the 13-object set where the fireball evidence effectively did the confirming, rather than advance tracking alone.",
+  "sources": [
+    "https://neo.ssa.esa.int/past-impactors/2024uq",
+    "https://www.space.com/the-universe/asteroids/asteroid-that-hit-earth-hours-after-being-detected-was-3rd-imminent-impactor-of-2024",
+    "https://www.imo.net/2024-uq-freshly-discovered-immediatly-reentered/",
+    "https://watchers.news/2024/10/23/asteroid-a11dc6d-impacts-earth-over-eastern-pacific-ocean-october-22-2024/",
+    "https://www.minorplanetcenter.net/mpec/K24/K24U49.html",
+    "https://en.wikipedia.org/wiki/2024_UQ",
+    "https://ssd-api.jpl.nasa.gov/fireball.api"
+  ]
+}

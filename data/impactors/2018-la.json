@@ -1,0 +1,71 @@
+{
+  "designation": "2018 LA",
+  "slug": "2018-la",
+  "discovery": {
+    "date_utc": "2018-06-02",
+    "time_utc": "08:14",
+    "survey": "Catalina Sky Survey",
+    "station_code": "G96",
+    "telescope": "1.5 m Mount Lemmon reflector",
+    "discoverer": "Richard Kowalski",
+    "magnitude_at_discovery": null
+  },
+  "impact": {
+    "date_utc": "2018-06-02",
+    "time_utc": "16:44:12",
+    "location_description": "Central Kalahari Game Reserve, near the Motopi Pan watering hole, Ghanzi District, Botswana",
+    "lat": -21.2,
+    "lon": 23.3,
+    "context": "Remote savanna/desert terrain, daytime entry (local afternoon); widely captured on dashcam and security video in nearby towns."
+  },
+  "warning_time_hours": 8.5,
+  "orbit": {
+    "class": "Apollo",
+    "a_au": 1.380,
+    "e": 0.432,
+    "i_deg": 4.30,
+    "q_au": 0.782,
+    "Q_au": 1.970,
+    "U": 6,
+    "source": "JPL SBDB, fetched 2026-09-07 (repo data/sbdb_orbits.txt); nobs=17 used in JPL fit vs 18 MPC total"
+  },
+  "physical": {
+    "diameter_m_estimate": "~1.6-2.6 m (estimates vary by source/albedo assumption)",
+    "velocity_km_s": 16.9,
+    "entry_angle_deg": null,
+    "energy_kt_measured": 0.91,
+    "energy_kt_modeled": null,
+    "mass_estimate_kg": null
+  },
+  "confirmation": {
+    "meteorites": {
+      "found": true,
+      "name": "Motopi Pan",
+      "total_mass_kg": 0.2145,
+      "count": 24,
+      "class": "Howardite (HED polymict breccia, achondrite)",
+      "notes": "First stone (17 g) found 23 June 2018 during a foot search after recognizing the fall as likely HED material; 22 more recovered 9-12 October 2018. Total recognized meteorites: 24, ~214.5 g. Only the second asteroid detected in space before an impact over land (after 2008 TC3), and the first HED/achondrite fall with a pre-impact tracked orbit."
+    },
+    "sensor_detections": ["US government sensors, 0.9 kt", "International Monitoring System (CTBTO) infrasound, corroborating yield"],
+    "camera_networks": [],
+    "eyewitness": "Numerous dashcam and security-camera videos across Botswana captured the fireball."
+  },
+  "scientific_results": [
+    "A 66-member international consortium (Jenniskens et al. 2021, Meteoritics & Planetary Science) analyzed 8 of the recovered stones: oxygen and chromium isotopes, cosmic-ray exposure ages, and noble-gas data place the source firmly in the howardite-eucrite-diogenite (HED) clan.",
+    "The pre-impact orbit, combined with the meteorite's petrology, is consistent with delivery from 4 Vesta or a Vestoid fragment via the nu6 secular resonance -- the first time an asteroid's tracked pre-impact orbit was used to help confirm a specific parent-body linkage for a recovered achondrite.",
+    "Cosmogenic nuclide data constrain the meteoroid's cosmic-ray exposure (transit) age, adding one of very few precisely time-tagged data points for how long Vesta-family debris spends in transit before an Earth impact."
+  ],
+  "notable_papers": [
+    {"authors": "Jenniskens, P. et al.", "year": 2021, "journal_or_venue": "Meteoritics & Planetary Science 56(4)", "topic": "The impact and recovery of asteroid 2018 LA", "url_or_doi": "10.1111/maps.13653"}
+  ],
+  "narrative": "Richard Kowalski spotted 2018 LA with the Mount Lemmon telescope at 08:14 UTC on 2 June 2018, and within hours the Scout and Aegis systems flagged a near-certain impact over southern Africa about 8.5 hours later. The small asteroid entered in daylight at 16:44 UTC, producing a bright fireball recorded on numerous dashcams and security cameras across Botswana and detected by US government sensors and CTBTO infrasound at roughly 0.9 kt. A search campaign found a first 17 g stone on 23 June near the Motopi Pan watering hole in the Central Kalahari Game Reserve, and a larger recovery expedition in October brought the total to 24 stones. Laboratory work identified them as a howardite polymict breccia -- linking the fall, via its measured orbit, to the giant asteroid 4 Vesta -- making 2018 LA both the second land-impacting object tracked in advance and the first HED meteorite fall with a known pre-impact trajectory.",
+  "sources": [
+    "https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13653",
+    "https://www.seti.org/press-release/asteroid-hit-botswana-2018-likely-came-vesta",
+    "https://www.livescience.com/meteorites-botswana-from-vesta-originally.html",
+    "https://neo.ssa.esa.int/past-impactors/2018la",
+    "https://assa.saao.ac.za/sections/comet-asteroid-meteor-section/the-botswana-super-bolide-and-meteorites-from-asteroid-2018-la/",
+    "https://karmaka.de/?p=15835",
+    "https://ssd-api.jpl.nasa.gov/fireball.api"
+  ]
+}

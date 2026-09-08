@@ -1,0 +1,65 @@
+{
+  "designation": "2022 WJ1",
+  "slug": "2022-wj1",
+  "discovery": {
+    "date_utc": "2022-11-19",
+    "time_utc": "04:53",
+    "survey": "Catalina Sky Survey",
+    "station_code": "G96",
+    "telescope": "1.5 m Mount Lemmon reflector",
+    "discoverer": "David Rankin",
+    "magnitude_at_discovery": null
+  },
+  "impact": {
+    "date_utc": "2022-11-19",
+    "time_utc": "08:27:00",
+    "location_description": "Over Lake Ontario near Niagara Falls/St. Catharines, Ontario, Canada, entering south of Woodstock and ending near Vineland at ~20 km altitude",
+    "lat": null,
+    "lon": null,
+    "context": "Populated Greater Toronto/Niagara/Golden Horseshoe region and four bordering US states, pre-dawn local time (~03:26 EST); dense camera and radar coverage from Western University's All-Sky Camera Network and NEXRAD weather radar."
+  },
+  "warning_time_hours": 3.565876444444444,
+  "orbit": {
+    "class": "Apollo",
+    "a_au": 1.900,
+    "e": 0.513,
+    "i_deg": 2.62,
+    "q_au": 0.927,
+    "Q_au": 2.880,
+    "U": 6,
+    "source": "JPL SBDB, fetched 2026-09-07 (repo data/sbdb_orbits.txt); nobs matches MPC total of 51"
+  },
+  "physical": {
+    "diameter_m_estimate": "0.4-0.6 m (smallest asteroid ever formally tracked and confirmed as of its discovery)",
+    "velocity_km_s": null,
+    "entry_angle_deg": null,
+    "energy_kt_measured": null,
+    "energy_kt_modeled": null,
+    "mass_estimate_kg": null
+  },
+  "confirmation": {
+    "meteorites": null,
+    "sensor_detections": [],
+    "camera_networks": ["Western University All-Sky Camera Network (southern Ontario)"],
+    "eyewitness": "Widely filmed across the Greater Toronto and Hamilton area and reported as a bright green fireball; astronomer Robert Weryk captured a time-lapse image after being alerted by NASA's Scout system."
+  },
+  "scientific_results": [
+    "Combined telescopic photometry and fireball camera imagery indicated an S-type (silicate-rich, ordinary-chondrite-like) composition, one of the few pre-impact spectral/compositional classifications in the series without a recovered meteorite to check it against.",
+    "KBUF weather radar near Buffalo, NY tracked apparent falling debris signatures from about 15 km altitude down to roughly 850 m, one of the clearest weather-radar detections of a meteorite fall to date, but a dedicated search of Lake Ontario's shoreline and shallows did not recover any fragments (most likely material fell into the lake itself).",
+    "Follow-up analysis (Wiegert et al., presented at the 2023 Asteroids, Comets, Meteors conference and published in The Planetary Science Journal) used the combined astrometric and fireball dataset to derive a refined diameter of roughly 40-60 cm, at the time making 2022 WJ1 the smallest object ever to have a confirmed pre-impact orbital detection.",
+    "Sixth overall case in the pre-impact-detection series and a demonstration case for NASA's Scout imminent-impactor system operating in a well-instrumented, densely populated region, in contrast to the ocean/remote-terrain cases elsewhere in the sample."
+  ],
+  "notable_papers": [
+    {"authors": "Wiegert, P. et al.", "year": 2023, "journal_or_venue": "Asteroids, Comets, Meteors (ACM) 2023 conference / The Planetary Science Journal", "topic": "The 2022 WJ1 fireball event: trajectory, radar detections, and derivation of one of the smallest confirmed pre-impact asteroid diameters", "url_or_doi": null}
+  ],
+  "narrative": "David Rankin, an engineer with the Catalina Sky Survey, discovered 2022 WJ1 with the Mount Lemmon telescope at 04:53 UTC on 19 November 2022; NASA's Scout system computed an impact solution over the Great Lakes region within a few hours, giving under four hours of warning. The object entered the atmosphere at about 08:27 UTC (03:26 EST), producing a bright green fireball over Lake Ontario that was captured in detail by Western University's All-Sky Camera Network across southern Ontario and witnessed widely across the Golden Horseshoe region and four neighboring US states. Buffalo's KBUF weather radar picked up what appeared to be falling debris signatures down to under a kilometer in altitude, and searchers combed the Niagara-region shoreline, but no meteorites were ever recovered, most likely because the debris fell into the lake. Later analysis of the combined camera and astrometric data yielded a diameter estimate of only 40 to 60 cm, at the time the smallest asteroid ever confirmed with a pre-impact orbital detection.",
+  "sources": [
+    "https://www.jpl.nasa.gov/news/nasa-program-predicted-impact-of-small-asteroid-over-ontario-canada/",
+    "https://www.esa.int/Space_Safety/Planetary_Defence/The_sixth_asteroid_impact_we_saw_coming",
+    "https://phys.org/news/2022-11-bright-fireball-meteorites-niagara-region.html",
+    "https://phys.org/news/2024-11-niagara-fireball-event-discovery-tiniest.html",
+    "https://ares.jsc.nasa.gov/meteorite-falls/events/lake-ontario-meteoroid-2022-wj1",
+    "https://www.hou.usra.edu/meetings/acm2023/pdf/2207.pdf",
+    "https://en.wikipedia.org/wiki/David_Rankin_(astronomer)"
+  ]
+}
