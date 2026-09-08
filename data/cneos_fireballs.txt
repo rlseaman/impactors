@@ -1,0 +1,38 @@
+== 2008-10-07
+{'date': '2008-10-07 02:45:45', 'energy': '39.5', 'impact-e': '1', 'lat': '20.9', 'lat-dir': 'N', 'lon': '31.4', 'lon-dir': 'E', 'alt': '38.9', 'vel': '13.3'}
+count 1
+== 2014-01-02
+count 0
+== 2018-06-02
+{'date': '2018-06-02 16:44:12', 'energy': '34.6', 'impact-e': '0.91', 'lat': '21.2', 'lat-dir': 'S', 'lon': '23.3', 'lon-dir': 'E', 'alt': '28.7', 'vel': '16.9'}
+count 1
+== 2019-06-22
+{'date': '2019-06-22 21:25:47', 'energy': '294', 'impact-e': '6', 'lat': '14.9', 'lat-dir': 'N', 'lon': '66.2', 'lon-dir': 'W', 'alt': '25.0', 'vel': '14.9'}
+count 1
+== 2022-03-11
+{'date': '2022-03-11 21:22:45', 'energy': '175', 'impact-e': '3.8', 'lat': '70.0', 'lat-dir': 'N', 'lon': '9.1', 'lon-dir': 'W', 'alt': '33.3', 'vel': '17.2'}
+count 1
+== 2022-11-19
+count 0
+== 2023-02-13
+count 0
+== 2024-01-21
+count 0
+== 2024-09-04
+{'date': '2024-09-04 16:39:32', 'energy': '6.2', 'impact-e': '0.2', 'lat': '18.0', 'lat-dir': 'N', 'lon': '122.9', 'lon-dir': 'E', 'alt': '25.0', 'vel': '19.7'}
+count 1
+== 2024-10-22
+{'date': '2024-10-22 10:54:48', 'energy': '4.5', 'impact-e': '0.15', 'lat': '30.0', 'lat-dir': 'N', 'lon': '136.0', 'lon-dir': 'W', 'alt': '38.2', 'vel': None}
+count 1
+== 2024-12-03
+count 0
+== 2026-05-15
+count 0
+== 2026-09-06
+count 0
+== latest 5 entries overall
+{'date': '2026-08-15 07:32:40', 'energy': '3.9', 'impact-e': '0.13', 'lat': '4.0', 'lat-dir': 'N', 'lon': '115.4', 'lon-dir': 'W', 'alt': '37.0', 'vel': None}
+{'date': '2026-08-14 07:48:36', 'energy': '3.8', 'impact-e': '0.13', 'lat': '47.7', 'lat-dir': 'N', 'lon': '119.4', 'lon-dir': 'W', 'alt': '30.0', 'vel': '12.2'}
+{'date': '2026-08-01 17:43:48', 'energy': '2.9', 'impact-e': '0.1', 'lat': '19.5', 'lat-dir': 'S', 'lon': '176.2', 'lon-dir': 'E', 'alt': '45.0', 'vel': None}
+{'date': '2026-07-21 01:14:45', 'energy': '3.2', 'impact-e': '0.11', 'lat': '9.4', 'lat-dir': 'N', 'lon': '57.4', 'lon-dir': 'W', 'alt': '31.5', 'vel': None}
+{'date': '2026-06-11 02:00:58', 'energy': '3.2', 'impact-e': '0.11', 'lat': '18.7', 'lat-dir': 'S', 'lon': '16.1', 'lon-dir': 'E', 'alt': '33.0', 'vel': None}

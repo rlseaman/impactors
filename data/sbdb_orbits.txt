@@ -1,0 +1,13 @@
+2008 TC3  class=APO nobs= 575 arc=1d first=2008-10-06 last=2008-10-07 a=1.310 e=0.312 i=2.54 q=0.900 Q=1.720 H=30.72 cond=4
+2014 AA   class=APO nobs=   8 arc=1d first=2014-01-01 last=2014-01-02 a=1.160 e=0.211 i=1.41 q=0.917 Q=1.410 H=30.95 cond=9
+2018 LA   class=APO nobs=  17 arc=Noned first=2018-06-02 last=2018-06-02 a=1.380 e=0.432 i=4.30 q=0.782 Q=1.970 H=30.57 cond=6
+2019 MO   class=APO nobs=   7 arc=Noned first=2019-06-22 last=2019-06-22 a=2.530 e=0.629 i=1.56 q=0.938 Q=4.110 H=29.12 cond=9
+2022 EB5  class=APO nobs= 176 arc=Noned first=2022-03-11 last=2022-03-11 a=2.830 e=0.686 i=10.40 q=0.888 Q=4.770 H=31.33 cond=6
+2022 WJ1  class=APO nobs=  51 arc=Noned first=2022-11-19 last=2022-11-19 a=1.900 e=0.513 i=2.62 q=0.927 Q=2.880 H=33.58 cond=6
+2023 CX1  class=APO nobs= 331 arc=1d first=2023-02-12 last=2023-02-13 a=1.640 e=0.437 i=3.44 q=0.921 Q=2.350 H=32.72 cond=4
+2024 BX1  class=APO nobs= 321 arc=1d first=2024-01-20 last=2024-01-21 a=1.340 e=0.375 i=7.29 q=0.835 Q=1.840 H=32.71 cond=5
+2024 RW1  class=APO nobs=  76 arc=Noned first=2024-09-04 last=2024-09-04 a=2.510 e=0.707 i=0.53 q=0.735 Q=4.280 H=32.20 cond=5
+2024 UQ   class=APO nobs=   8 arc=Noned first=2024-10-22 last=2024-10-22 a=2.170 e=0.726 i=1.71 q=0.594 Q=3.740 H=32.66 cond=7
+2024 XA1  class=APO nobs=  60 arc=Noned first=2024-12-03 last=2024-12-03 a=1.700 e=0.498 i=0.11 q=0.852 Q=2.540 H=32.95 cond=5
+2026 JN4  class=APO nobs=   6 arc=Noned first=2026-05-15 last=2026-05-15 a=1.490 e=0.428 i=13.00 q=0.856 Q=2.130 H=33.38 cond=9
+2026 RW1  class=ATE nobs=  29 arc=1d first=2026-09-05 last=2026-09-06 a=0.943 e=0.192 i=1.51 q=0.762 Q=1.120 H=33.278 cond=4

@@ -1,0 +1,262 @@
+[
+ {
+  "obj": "2008 TC3",
+  "code": "G96",
+  "nsta": 29,
+  "nobs": 883,
+  "U": 4,
+  "warn": 20.09842,
+  "er": 1,
+  "e1": "Meteosat 8 flash, US sensors (1 kt), infrasound, KLM pilots; pre-impact spectrum and lightcurve",
+  "e2": "600 Almahata Sitta stones, 10.5 kg (ureilite)",
+  "tier": "Meteorites",
+  "parts": [
+   1,
+   1,
+   2,
+   1
+  ],
+  "score": 5,
+  "rank": 1
+ },
+ {
+  "obj": "2023 CX1",
+  "code": "K88",
+  "nsta": 22,
+  "nobs": 368,
+  "U": 4,
+  "warn": 6.687436444444444,
+  "er": 2,
+  "e1": "FRIPON camera trajectory, thousands of witnesses across France and England",
+  "e2": "Saint-Pierre-le-Viger stones, about 1 kg (L chondrite)",
+  "tier": "Meteorites",
+  "parts": [
+   2,
+   2,
+   8,
+   1
+  ],
+  "score": 13,
+  "rank": 2
+ },
+ {
+  "obj": "2024 RW1",
+  "code": "G96",
+  "nsta": 19,
+  "nobs": 187,
+  "U": 5,
+  "warn": 10.930784888888889,
+  "er": 5,
+  "e1": "US sensors 0.2 kt at 18.0N 122.9E, matching ESA's 0.19 kt model",
+  "e2": "Videos from Luzon through typhoon cloud; no stones",
+  "tier": "Sensor + video",
+  "parts": [
+   4,
+   3,
+   4,
+   4
+  ],
+  "score": 15,
+  "rank": 3
+ },
+ {
+  "obj": "2024 XA1",
+  "code": "V00",
+  "nsta": 15,
+  "nobs": 79,
+  "U": 5,
+  "warn": 10.328973777777778,
+  "er": 8,
+  "e1": "Many videos across Yakutia near Olekminsk",
+  "e2": "No US sensor entry; no stones found",
+  "tier": "Video only",
+  "parts": [
+   6,
+   5,
+   5,
+   4
+  ],
+  "score": 20,
+  "rank": 4
+ },
+ {
+  "obj": "2024 BX1",
+  "code": "K88",
+  "nsta": 16,
+  "nobs": 328,
+  "U": 5,
+  "warn": 2.7379555555555553,
+  "er": 3,
+  "e1": "Widely filmed over Berlin and Leipzig; no US sensor entry",
+  "e2": "200+ Ribbeck stones, 1.8 kg (aubrite)",
+  "tier": "Meteorites",
+  "parts": [
+   3,
+   4,
+   11,
+   4
+  ],
+  "score": 22,
+  "rank": 5
+ },
+ {
+  "obj": "2026 RW1",
+  "code": "G96",
+  "nsta": 7,
+  "nobs": 30,
+  "U": 4,
+  "warn": 7.360314666666667,
+  "er": 12,
+  "e1": "None reported as of 2026-09-07; absent from CNEOS fireball database, which lags about three weeks",
+  "e2": "First Aten; first prior-night precovery (F52) linked while in flight",
+  "tier": "Unconfirmed",
+  "parts": [
+   8,
+   7,
+   7,
+   1
+  ],
+  "score": 23,
+  "rank": 6
+ },
+ {
+  "obj": "2022 WJ1",
+  "code": "G96",
+  "nsta": 10,
+  "nobs": 51,
+  "U": 6,
+  "warn": 3.565876444444444,
+  "er": 6,
+  "e1": "All-sky camera trajectory, widespread video from Ontario and four US states",
+  "e2": "Weather radar tracked falling stones into Lake Ontario; none recovered",
+  "tier": "Trajectory + radar",
+  "parts": [
+   7,
+   6,
+   9,
+   7
+  ],
+  "score": 29,
+  "rank": 7
+ },
+ {
+  "obj": "2022 EB5",
+  "code": "K88",
+  "nsta": 7,
+  "nobs": 177,
+  "U": 6,
+  "warn": 1.9756466666666668,
+  "er": 7,
+  "e1": "US sensors 3.8 kt at 70.0N 9.1W; infrasound in Greenland and Norway",
+  "e2": "Possible flash seen from northern Iceland; ESA model only 0.4 kt",
+  "tier": "Sensor",
+  "parts": [
+   5,
+   7,
+   12,
+   7
+  ],
+  "score": 31,
+  "rank": 8
+ },
+ {
+  "obj": "2018 LA",
+  "code": "G96",
+  "nsta": 4,
+  "nobs": 18,
+  "U": 6,
+  "warn": 8.497466666666668,
+  "er": 4,
+  "e1": "US sensors (0.9 kt), many dashcam and security videos in Botswana",
+  "e2": "Motopi Pan stones, Central Kalahari (howardite)",
+  "tier": "Meteorites",
+  "parts": [
+   9,
+   9,
+   6,
+   7
+  ],
+  "score": 31,
+  "rank": 9
+ },
+ {
+  "obj": "2019 MO",
+  "code": "T08",
+  "nsta": 2,
+  "nobs": 7,
+  "U": 9,
+  "warn": 11.612522222222223,
+  "er": 9,
+  "e1": "GOES-16 lightning mapper, US sensors (6 kt), infrasound, NEXRAD radar",
+  "e2": "30-minute ATLAS arc linked after the fact; Pan-STARRS precovery extended it to 2.3 h",
+  "tier": "Retrospective link",
+  "parts": [
+   11,
+   11,
+   3,
+   11
+  ],
+  "score": 36,
+  "rank": 10
+ },
+ {
+  "obj": "2014 AA",
+  "code": "G96",
+  "nsta": 1,
+  "nobs": 7,
+  "U": 9,
+  "warn": 20.76498666666667,
+  "er": 11,
+  "e1": "Weak infrasound at three CTBTO stations; no optical or sensor detection",
+  "e2": "Predicted corridor spanned Central America to East Africa",
+  "tier": "Infrasound only",
+  "parts": [
+   11,
+   13,
+   1,
+   11
+  ],
+  "score": 36,
+  "rank": 11
+ },
+ {
+  "obj": "2024 UQ",
+  "code": "T05",
+  "nsta": 2,
+  "nobs": 9,
+  "U": 7,
+  "warn": 1.7711813333333335,
+  "er": 10,
+  "e1": "GOES flash, US sensors 0.15 kt at 30N 136W",
+  "e2": "14-minute ATLAS arc; recognized as an impactor only after the flash",
+  "tier": "Retrospective link",
+  "parts": [
+   10,
+   11,
+   13,
+   10
+  ],
+  "score": 44,
+  "rank": 12
+ },
+ {
+  "obj": "2026 JN4",
+  "code": "U68",
+  "nsta": 3,
+  "nobs": 6,
+  "U": 9,
+  "warn": 3.234112,
+  "er": 13,
+  "e1": "No sensor or camera detection; entered Earth's shadow 20 min before impact",
+  "e2": "One eyewitness in Darwin with matching time and direction; MPC declined to list",
+  "tier": "Unconfirmed",
+  "parts": [
+   13,
+   10,
+   10,
+   11
+  ],
+  "score": 44,
+  "rank": 13
+ }
+]
