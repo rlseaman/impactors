@@ -16,7 +16,7 @@
     "location_description": "Central Kalahari Game Reserve, near the Motopi Pan watering hole, Ghanzi District, Botswana",
     "lat": -21.2,
     "lon": 23.3,
-    "context": "Remote savanna/desert terrain, daytime entry (local afternoon); widely captured on dashcam and security video in nearby towns."
+    "context": "Remote savanna/desert terrain, early-evening entry after sunset (18:44 local); widely captured on dashcam and security video in nearby towns."
   },
   "warning_time_hours": 8.5,
   "orbit": {
@@ -58,7 +58,7 @@
   "notable_papers": [
     {"authors": "Jenniskens, P. et al.", "year": 2021, "journal_or_venue": "Meteoritics & Planetary Science 56(4)", "topic": "The impact and recovery of asteroid 2018 LA", "url_or_doi": "10.1111/maps.13653"}
   ],
-  "narrative": "Richard Kowalski spotted 2018 LA with the Mount Lemmon telescope at 08:14 UTC on 2 June 2018, and within hours the Scout and Aegis systems flagged a near-certain impact over southern Africa about 8.5 hours later. The small asteroid entered in daylight at 16:44 UTC, producing a bright fireball recorded on numerous dashcams and security cameras across Botswana and detected by US government sensors and CTBTO infrasound at roughly 0.9 kt. A search campaign found a first 17 g stone on 23 June near the Motopi Pan watering hole in the Central Kalahari Game Reserve, and a larger recovery expedition in October brought the total to 24 stones. Laboratory work identified them as a howardite polymict breccia -- linking the fall, via its measured orbit, to the giant asteroid 4 Vesta -- making 2018 LA both the second land-impacting object tracked in advance and the first HED meteorite fall with a known pre-impact trajectory.",
+  "narrative": "Richard Kowalski spotted 2018 LA with the Mount Lemmon telescope at 08:14 UTC on 2 June 2018, and within hours the Scout and Aegis systems flagged a near-certain impact over southern Africa about 8.5 hours later. The small asteroid entered at 16:44 UTC (18:44 local, after sunset), producing a bright fireball recorded on numerous dashcams and security cameras across Botswana and detected by US government sensors and CTBTO infrasound at roughly 0.9 kt. A search campaign found a first 17 g stone on 23 June near the Motopi Pan watering hole in the Central Kalahari Game Reserve, and a larger recovery expedition in October brought the total to 24 stones. Laboratory work identified them as a howardite polymict breccia -- linking the fall, via its measured orbit, to the giant asteroid 4 Vesta -- making 2018 LA both the second land-impacting object tracked in advance and the first HED meteorite fall with a known pre-impact trajectory.",
   "sources": [
     "https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13653",
     "https://www.seti.org/press-release/asteroid-hit-botswana-2018-likely-came-vesta",

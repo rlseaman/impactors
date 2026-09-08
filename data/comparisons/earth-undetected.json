@@ -30,7 +30,7 @@
     "location": "Podkamennaya Tunguska River basin, Siberia, Russian Empire",
     "lat": 60.9,
     "lon": 101.9,
-    "energy_estimate_kt": "~10,000-15,000 kt (10-15 Mt) TNT equivalent from combined infrasound/seismic and blast-scaling models; some hydrocode modeling gives up to ~14.6 Mt; upper-end older estimates ran as high as 30-40 Mt",
+    "energy_estimate_kt": "~3,000-15,000 kt (3-15 Mt) TNT equivalent: Boslough & Crawford 2008 hydrocode modeling favors 3-5 Mt; earlier infrasound/seismic and blast-scaling estimates gave 10-15 Mt; older upper-end estimates ran as high as 30-40 Mt",
     "size_estimate_m": "Commonly cited progenitor size ~50-80 m (stony asteroid or comet fragment), based on airburst-scaling models; no fragments or crater recovered, so composition and exact size remain modeled rather than measured",
     "why_undetected": "No systematic sky surveys existed in 1908; the concept of near-Earth asteroid detection did not yet exist. Purely a pre-instrumental-era event with no possibility of advance warning.",
     "damage_casualties": "Flattened roughly 2,150 sq km of Siberian taiga (about 80 million trees), in a remote, essentially uninhabited region; no confirmed direct human fatalities, though local Evenki reindeer herders reported livestock losses and some injuries.",

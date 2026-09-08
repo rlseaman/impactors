@@ -45,7 +45,7 @@
   },
   "scientific_results": [
     "Like 2019 MO, 2024 UQ was recognized as a genuine impactor only after the GOES/sensor flash appeared -- a retrospective search of Catalina Sky Survey (station 703) images then found a faint precovery detection about an hour before the credited ATLAS discovery, extending and firming up the fit after the fact.",
-    "At 21 km/s, it tied 2024 RW1 for the fastest entry velocity in the 13-object set, illustrating that short-warning cases cluster at both extremes of encounter geometry (very slow grazing entries like 2026 RW1, and fast steep ones like this).",
+    "At about 21 km/s it was the fastest entry in the 13-object set, ahead of 2024 RW1 at 19.7 km/s, illustrating that short-warning cases cluster at both extremes of encounter geometry (very slow grazing entries like 2026 RW1, and fast steep ones like this).",
     "The case reinforced, alongside 2019 MO, that at very short arcs (here about 8-9 observations from 2 stations, U=7) the automated Scout/Meerkat hazard-assessment pipelines can correctly rate an object as an imminent impactor but real-world confirmation of identity still depends on catching a second, independent detection -- sensor, precovery, or both."
   ],
   "notable_papers": [],

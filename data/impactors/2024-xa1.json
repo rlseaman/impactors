@@ -20,14 +20,14 @@
   },
   "warning_time_hours": 10.34,
   "orbit": {
-    "class": "APO",
+    "class": "Apollo",
     "a_au": 1.700,
     "e": 0.498,
     "i_deg": 0.11,
     "q_au": 0.852,
     "Q_au": 2.540,
     "U": 5,
-    "source": "JPL SBDB fetched 2026-09-07 (76 obs used in fit); a near-impact heliocentric fit from Gianotto et al. 2025 at epoch 2024-10-01 gives a=1.68911±0.00005 AU, e=0.49518±0.00002, i=0.10824±0.00001 deg, consistent within rounding"
+    "source": "JPL SBDB fetched 2026-09-07 (60 obs used in fit vs 79 in MPC total); a near-impact heliocentric fit from Gianotto et al. 2025 at epoch 2024-10-01 gives a=1.68911±0.00005 AU, e=0.49518±0.00002, i=0.10824±0.00001 deg, consistent within rounding"
   },
   "physical": {
     "diameter_m_estimate": "~0.6-1 m (H=33.05-33.58 assuming albedo 0.14); described in the discovery paper and press as \"about one meter\"",
@@ -51,7 +51,7 @@
     "eyewitness": "Live public webcam in Lensk, Sakha Republic, captured the fireball at the predicted time and direction (video used by ESA NEOCC to validate the impact prediction); numerous eyewitnesses across the Olekminsk and Lensk districts of Yakutia reported a bright flash and comet-like tail; no all-sky camera network covers this region so no independent instrumental trajectory exists"
   },
   "scientific_results": [
-    "First (or among the first) cases where ESA's Aegis Orbit Determination and Impact Monitoring system and the Meerkat imminent-impactor warning service jointly processed a NEOCP object from initial 1% impact-probability alert to a 100% impact call within about two hours of follow-up astrometry (07:31 to 07:50 UTC), demonstrating operational imminent-impactor infrastructure beyond the discovering survey",
+    "First (or among the first) cases where ESA's Aegis Orbit Determination and Impact Monitoring system and the Meerkat imminent-impactor warning service jointly processed a NEOCP object from initial 1% impact-probability alert to a 100% impact call within about two hours of discovery, the final step from 1% to 100% taking 19 minutes (07:31 to 07:50 UTC), demonstrating operational imminent-impactor infrastructure beyond the discovering survey",
     "Because no fireball camera network or satellite sensor recorded a trajectory, Gianotto et al. (2025) computed a purely dynamical 'ab initio' strewn field directly from the pre-impact orbit and a local atmospheric/wind profile, rather than from an observed fireball trajectory as was done for 2008 TC3, 2023 CX1, and 2024 BX1 -- a demonstration that meteorite search zones can be predicted from astrometry alone when no camera coverage exists",
     "Impact-point uncertainty at 100 km altitude shrank from about 400 km (at discovery) to about 1 km (by time of impact) to a final 220 m with the complete 79-observation dataset, quantifying how fast an imminent-impactor solution stiffens with a few hours of follow-up",
     "The high entry inclination (~51 deg to the ground) caused the strewn-field solutions for three different assumed asteroid strengths (0.5, 1, 5 MPa) to overlap substantially, which the authors note is favorable for any future ground search despite the remote taiga terrain"

@@ -6,8 +6,8 @@
     "time_utc": "19:24",
     "survey": "GINOP-KHK/Konkoly Observatory",
     "station_code": "K88",
-    "telescope": "0.6 m Schmidt, Piszkeoto Station",
-    "discoverer": "Krisztian Sarneczky",
+    "telescope": "0.6 m Schmidt, Piszkéstető Station",
+    "discoverer": "Krisztián Sárneczky",
     "magnitude_at_discovery": null
   },
   "impact": {
@@ -44,12 +44,12 @@
     "eyewitness": "A possible flash reported from northern Iceland; unconfirmed."
   },
   "scientific_results": [
-    "2022 EB5 was the first imminent impactor discovered by a European observer/telescope (Sarneczky, Hungary), and the fifth pre-impact discovery overall, establishing Konkoly Observatory's small 0.6 m Schmidt as a credible contributor to the imminent-impactor discovery rate previously dominated by Catalina and Pan-STARRS.",
+    "2022 EB5 was the first imminent impactor discovered by a European observer/telescope (Sárneczky, Hungary), and the fifth pre-impact discovery overall, establishing Konkoly Observatory's small 0.6 m Schmidt as a credible contributor to the imminent-impactor discovery rate previously dominated by Catalina and Pan-STARRS.",
     "The roughly order-of-magnitude spread between the ~3.8 kt sensor-measured energy and the ~0.4 kt ESA-modeled energy (from the tracked size/speed alone) is one of the largest measured/modeled discrepancies in the 13-object set, illustrating how uncertain absolute-magnitude-to-size-to-energy conversions remain for meter-class bodies.",
     "Multi-station infrasound triangulation (Iceland + Greenland) provided an independent cross-check on the US sensor energy estimate, of a kind normally reserved for nuclear-test monitoring."
   ],
   "notable_papers": [],
-  "narrative": "Krisztian Sarneczky spotted a fast-moving object with the Piszkesteto Schmidt telescope at 19:24 UTC on 11 March 2022, and within roughly two hours automated hazard-assessment systems confirmed a near-certain impact in the far North Atlantic. The object entered at 21:22:45 UTC southwest of the remote Norwegian island of Jan Mayen, producing an atmospheric explosion recorded by US government sensors at about 3.8 kt and cross-checked by infrasound arrays in Iceland and Greenland. No meteorites were recoverable from the deep Arctic ocean, and the only possible visual sighting -- a flash reported from northern Iceland -- was never confirmed. As the fifth of the 13 pre-impact discoveries and the first made by a European team, 2022 EB5 demonstrated that modest-aperture Old World telescopes could compete with the large American surveys for these fleeting detections.",
+  "narrative": "Krisztián Sárneczky spotted a fast-moving object with the Piszkéstető Schmidt telescope at 19:24 UTC on 11 March 2022, and within roughly two hours automated hazard-assessment systems confirmed a near-certain impact in the far North Atlantic. The object entered at 21:22:45 UTC southwest of the remote Norwegian island of Jan Mayen, producing an atmospheric explosion recorded by US government sensors at about 3.8 kt and cross-checked by infrasound arrays in Iceland and Greenland. No meteorites were recoverable from the deep Arctic ocean, and the only possible visual sighting -- a flash reported from northern Iceland -- was never confirmed. As the fifth of the 13 pre-impact discoveries and the first made by a European team, 2022 EB5 demonstrated that modest-aperture Old World telescopes could compete with the large American surveys for these fleeting detections.",
   "sources": [
     "https://neo.ssa.esa.int/past-impactors/2022eb5",
     "https://www.imo.net/2022-eb5-5th-predicted-earth-impactor-asteroid-on-march-11/",

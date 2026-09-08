@@ -28,7 +28,7 @@ rows = [
  ("2022 EB5","K88","2022 03 11.80848","2022-03-11 21:22:45",6,7,
   "US sensors 3.8 kt at 70.0N 9.1W; infrasound in Greenland and Norway",
   "Possible flash seen from northern Iceland; ESA model only 0.4 kt","Sensor"),
- ("2024 XA1","V00","2024 12 03.246721","2024-12-03 16:15:01",5,8,
+ ("2024 XA1","V00","2024 12 03.246721","2024-12-03 16:14:53",5,8,
   "Many videos across Yakutia near Olekminsk",
   "No US sensor entry; no stones found","Video only"),
  ("2019 MO","T08","2019 06 22.409050","2019-06-22 21:25:47",9,9,

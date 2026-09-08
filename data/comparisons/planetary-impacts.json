@@ -87,7 +87,7 @@
     "energy_or_scale": "Individual new craters mostly a few meters to a few tens of meters across, from meteoroids roughly decimeter-to-meter scale; one of the more notable, imaged between March 2010 and May 2012, was only ~4 m across",
     "key_papers": [
       {"authors": "Daubar, I.J., McEwen, A.S., Byrne, S., et al.", "year": 2013, "venue": "Icarus", "topic": "The current Martian cratering rate"},
-      {"authors": "Daubar, I.J., Banks, M.E., Schmerr, N.C., et al.", "year": 2020, "venue": "Journal of Geophysical Research: Planets", "topic": "Two Chelyabinsk-sized asteroid impacts on Mars detected by InSight and confirmed by MRO imagery"}
+      {"authors": "Daubar, I.J., Banks, M.E., Schmerr, N.C., et al.", "year": 2020, "venue": "Journal of Geophysical Research: Planets", "topic": "A new crater near InSight: implications for seismic impact detectability on Mars (doi 10.1029/2020JE006382)"}
     ],
     "sources": [
       "https://www.jpl.nasa.gov/news/ai-is-helping-scientists-discover-fresh-craters-on-mars/",
@@ -101,8 +101,8 @@
     "date": "2020-05-27, 2021-02-18, 2021-08-31, 2021-12-24 (four confirmed seismic-to-crater matches)",
     "description": "NASA's InSight lander, using its SEIS seismometer, detected four marsquakes later confirmed as meteoroid-impact signals rather than tectonic events, cross-checked against new craters found by MRO CTX/HiRISE imaging at the predicted locations. The largest, a magnitude ~4 event on 2021-12-24 near Amazonis/Elysium Planitia, formed a crater roughly 150 m across (with several smaller satellite craters from fragmentation) and excavated blocks of subsurface water ice -- the closest-to-equator ice ever directly observed on Mars at that time.",
     "discoverer_or_mission": "NASA InSight lander (seismometer, JPL); crater confirmation by Mars Reconnaissance Orbiter CTX/HiRISE",
-    "scientific_significance": "First direct seismic detection of an impact on another planet matched to an observed crater, opening a new cross-calibration method between seismology and crater counting for airless/thin-atmosphere bodies; the December 2021 event was Chelyabinsk-scale in energy but produced dramatically different surface effects due to Mars's thin atmosphere and lack of an ocean/urban target, illustrating how atmosphere and terrain govern impact consequences as much as impactor energy does.",
-    "energy_or_scale": "December 2021 event: seismic magnitude ~4.0, crater ~150 m diameter, impactor estimated at several meters across; comparable kinetic energy to Chelyabinsk (hundreds of kilotons range) but a very different outcome due to Mars's ~1% Earth-surface atmospheric density",
+    "scientific_significance": "First direct seismic detection of an impact on another planet matched to an observed crater, opening a new cross-calibration method between seismology and crater counting for airless/thin-atmosphere bodies; the December 2021 impactor (5-12 m) would have burned up in Earth's atmosphere but produced a 150 m crater on Mars, dramatically different surface effects due to Mars's thin atmosphere and lack of an ocean/urban target, illustrating how atmosphere and terrain govern impact consequences as much as impactor energy does.",
+    "energy_or_scale": "December 2021 event: seismic magnitude ~4.0, crater ~150 m diameter, impactor estimated at 5-12 m across, small enough to have burned up in Earth's atmosphere (JPL) but reaching the surface through Mars's ~1% Earth-surface atmospheric density",
     "key_papers": [
       {"authors": "Posiolova, L.V., Lognonne, P., Banerdt, W.B., et al.", "year": 2022, "venue": "Science", "topic": "Largest recent impact craters on Mars: orbital imaging and surface seismic co-detection"},
       {"authors": "Garcia, R.F., Daubar, I.J., Beucler, E., et al.", "year": 2022, "venue": "Nature Geoscience", "topic": "Newly formed craters on Mars located using seismic and acoustic wave data from InSight"}

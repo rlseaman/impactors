@@ -12,7 +12,7 @@
   },
   "impact": {
     "date_utc": "2026-05-15",
-    "time_utc": "13:44 (MPC/IMO/independent computations; ESA NEOCC table gives 15:39, an apparent table error per repo report)",
+    "time_utc": "13:36-13:44 (MPC/IMO/independent computations); ESA NEOCC table gives 15:39:28, a discrepancy that is unresolved",
     "location_description": "Arafura Sea, between northwestern Australia and Papua New Guinea; predicted corridor was exceptionally wide (over 4,500 km, spanning from northwestern Australia to Micronesia)",
     "lat": null,
     "lon": null,
@@ -27,21 +27,22 @@
     "q_au": 0.856,
     "Q_au": 2.130,
     "U": 9,
-    "source": "JPL SBDB, fetched 2026-09-07 (repo data/sbdb_orbits.txt); nobs=6"
+    "source": "JPL SBDB, fetched 2026-09-07 (repo data/sbdb_orbits.txt); nobs=6. MPEC 2026-J143's solution differs (a=1.331, e=0.341, i=10.88), as expected for a six-observation arc"
   },
   "physical": {
-    "diameter_m_estimate": "sub-meter to ~1 m (very uncertain given short arc)",
-    "velocity_km_s": null,
+    "diameter_m_estimate": "0.5-1.2 m (ESA NEOCC past-impactors table)",
+    "velocity_km_s": 17.34,
     "entry_angle_deg": null,
     "energy_kt_measured": null,
-    "energy_kt_modeled": null,
-    "mass_estimate_kg": null
+    "energy_kt_modeled": 0.0156,
+    "mass_estimate_kg": null,
+    "source": "Velocity, energy, and diameter from the ESA NEOCC past-impactors table (which also gives the 15:39:28 UTC entry time)"
   },
   "confirmation": {
     "meteorites": null,
     "sensor_detections": [],
     "camera_networks": [],
-    "eyewitness": "No ground/air impact report had reached the MPC as of the MPEC; the repo's own report cites one eyewitness account from Darwin, Australia matching the predicted time and direction, but this was not independently verified in web sources located during this research pass."
+    "eyewitness": "No ground/air impact report had reached the MPC as of the MPEC. ESA's NEOCC page reports a witness in Darwin, Australia, who saw a bright fireball at the predicted time and direction, which ESA used to narrow the impact corridor to north of the Northern Territory."
   },
   "scientific_results": [
     "2026 JN4 is the first case in which the MPC formally declined to add an object to its list of confirmed past impactors absent independent ground/air-impact confirmation, per explicit wording in MPEC 2026-J143: 'we are not adding this object to the list of past impactors at this stage.' The same wording was later reused for 2026 RW1, marking a deliberate policy shift toward requiring post-impact evidence rather than treating a high-confidence astrometric solution alone as sufficient.",
@@ -54,7 +55,6 @@
     "https://minorplanetcenter.net/mpec/K26/K26JE3.html",
     "https://www.imo.net/2026-jn4-12th-asteroid-discovered-before-atmospheric-entry/",
     "https://watchers.news/2026/05/16/asteroid-2026-jn4-impacts-earth-arafura-sea-may-15-2026/",
-    "https://neo.ssa.esa.int/past-impactors/2026jn4",
-    "/Users/seaman/Projects/impactors/report/impactor-confidence-report.md (repo's own verified account of the Darwin eyewitness report and MPC policy note)"
+    "https://neo.ssa.esa.int/past-impactors/2026jn4"
   ]
 }
