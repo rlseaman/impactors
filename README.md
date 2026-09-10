@@ -60,5 +60,5 @@ bash scripts/build_report.sh
 ## Sources
 
 Minor Planet Center (MPECs 2026-R64 and 2026-J143, MPC Explorer), JPL SBDB and CNEOS
-fireball APIs, ESA NEOCC past-impactor pages, Wikipedia object pages, and press coverage
-cited in the report.
+fireball APIs, ESA NEOCC past-impactor pages, Wikipedia object pages, the Global Fireball
+Observatory blog (2026 RW1 photographic confirmation), and press coverage cited in the report.
